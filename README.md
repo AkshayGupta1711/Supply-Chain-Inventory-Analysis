@@ -160,7 +160,6 @@ The dashboard consists of **three interactive pages**.
 
 ### 📌 Page 2 – Sales & Customer Analytics
 
-- Top 10 Customers
 - Top 10 Products
 - Revenue by Category
 - Revenue by City
