@@ -207,7 +207,8 @@ The dashboard consists of **three interactive pages**.
 
 ## 📷 Dashboard Preview
 <img width="1227" height="692" alt="Page 1" src="https://github.com/user-attachments/assets/c01cb8f6-feeb-4b74-8bca-c74dcd9f5fe9" />
-<img width="1227" height="692" alt="Page 2" src="https://github.com/user-attachments/assets/1f971f88-9f97-4a14-bfd6-04c494385ffb" />
+<img width="1163" height="655" alt="Page 2" src="https://github.com/user-attachments/assets/d1d0827d-0846-408d-9796-0643b0455798" />
+
 <img width="1228" height="696" alt="Page 3" src="https://github.com/user-attachments/assets/7d952c21-334e-410e-8808-a53225e57842" />
 
 ## 🎯 Key Insights
