@@ -1,0 +1,501 @@
+supplier_id,supplier_name,supplier_type,city,state,contact_person,phone,email,rating,lead_time_days,payment_terms_days,defect_rate_percent,on_time_delivery_percent
+1,Pathak-Narula Pvt Ltd,Importer,Bengaluru,Karnataka,Jagrati Kadakia,163839919,nidrachakraborty@parsa.org,3.1,4,15,3.08,97.88
+2,Gandhi-Devi Pvt Ltd,Manufacturer,Mysuru,Karnataka,Vritti Andra,9018873197,samuelmalhotra@sarraf.com,2.6,5,30,2.32,82.47
+3,Behl and Sons Pvt Ltd,Distributor,New Delhi,Delhi,Chandran Rao,3621948181,kondairya@sule.biz,3.6,6,15,3.44,84.84
+4,Luthra-Rajagopalan Pvt Ltd,Importer,Indore,Madhya Pradesh,Falak Basak,7299653010,zdey@dalal.com,2.9,14,45,0.55,88.76
+5,Andra Ltd Pvt Ltd,Importer,Kolkata,West Bengal,Upkaar Aggarwal,4791115581,tandonzaid@soman.com,4.5,13,60,2.46,99.32
+6,Dewan-Varkey Pvt Ltd,Importer,Bhopal,Madhya Pradesh,Zaitra Anand,3126276716,divyasha@patil.com,4.6,11,45,2.64,94.54
+7,"Virk, Narula and Gupta Pvt Ltd",Distributor,Nagpur,Maharashtra,Viraj Suresh,3677939095,zarnauppal@nayak.com,4.4,3,30,3.91,88.77
+8,Grewal-Borah Pvt Ltd,Distributor,Jaipur,Rajasthan,Bhavani Munshi,3581874788,ysem@kurian-bajwa.com,3.4,5,45,3.19,94.17
+9,Sampath-Narula Pvt Ltd,Distributor,Bengaluru,Karnataka,Qabil Bawa,3382404325,upkaarparmer@basu.biz,2.9,8,45,4.45,93.39
+10,Muni-Suri Pvt Ltd,Importer,Hyderabad,Telangana,Ganga Sankar,5844121005,chakradhar70@chandra.com,4.6,14,15,1.11,82.57
+11,Sur-Pau Pvt Ltd,Importer,Kolkata,West Bengal,Bakhshi Garg,6508611639,oviyasant@saha.com,2.7,11,45,1.04,90.89
+12,Loyal Ltd Pvt Ltd,Importer,Jaipur,Rajasthan,Varenya Sankar,3643154702,isabharwal@bath.com,2.8,13,45,3.39,89.63
+13,Anand Group Pvt Ltd,Importer,Noida,Uttar Pradesh,Gayathri Mistry,9230678708,sankarkai@sangha-anand.com,3,4,60,0.5,82.84
+14,Ghose-Tandon Pvt Ltd,Distributor,Bengaluru,Karnataka,Ishwar Mall,6303664724,sagarunnati@varkey.com,4.5,8,15,1.79,92.61
+15,Bedi Group Pvt Ltd,Manufacturer,Jaipur,Rajasthan,Joshua Borde,7394460354,jalsakapadia@hora-mann.info,4.2,3,45,3.48,88.06
+16,"Dey, Kale and Mittal Pvt Ltd",Distributor,Surat,Gujarat,Noah Padmanabhan,8288013552,bavautkarsh@puri-pau.net,3.6,13,45,4.38,95.56
+17,Grover-Chauhan Pvt Ltd,Importer,Hyderabad,Telangana,Oviya Sule,3126394482,pbiswas@kumer.info,4.6,10,30,0.77,95.57
+18,Mangal LLC Pvt Ltd,Importer,Hyderabad,Telangana,Anay Shetty,251960062,nidraravel@singh-sarna.com,3.7,3,45,3.97,96.8
+19,Sundaram LLC Pvt Ltd,Manufacturer,Ahmedabad,Gujarat,Oliver Kari,4541304476,vincent09@venkataraman-bahri.com,3.1,11,15,0.48,90.65
+20,Chauhan and Sons Pvt Ltd,Distributor,Bengaluru,Karnataka,Zaid Bail,3265508061,yshukla@sibal-karan.net,4.1,10,30,1.27,97.53
+21,Krishnan Ltd Pvt Ltd,Distributor,Bhopal,Madhya Pradesh,Warjas Prakash,9000094851,hseshadri@kunda-oommen.com,4.3,8,45,2.03,91.21
+22,Rege-Bhatti Pvt Ltd,Distributor,Bengaluru,Karnataka,Faqid Ram,7763594571,xkata@parmer.com,2.7,2,30,2.69,82.13
+23,"Garg, Varughese and Dass Pvt Ltd",Manufacturer,Mumbai,Maharashtra,Sanya Wason,8231054180,swaminathanreyansh@bail.com,4.8,7,15,2.36,86.96
+24,Dey Group Pvt Ltd,Distributor,Jaipur,Rajasthan,Krishna Choudhury,8554683178,turvirege@vyas-ramesh.biz,4.3,11,60,1.17,90.42
+25,Wali-Shah Pvt Ltd,Manufacturer,Bhopal,Madhya Pradesh,Ekavir Nori,1561557303,zilmil32@sarma.com,2.7,8,45,1.96,90.31
+26,Batta-Ghosh Pvt Ltd,Manufacturer,Nagpur,Maharashtra,Guneet Kapur,1873486118,wakeeta33@gulati-pandya.com,2.7,13,45,3.62,83.94
+27,Lad LLC Pvt Ltd,Local Vendor,New Delhi,Delhi,Jhalak Walia,9191637652,vidhi85@dar-khanna.com,2.9,4,45,2.14,97.57
+28,Ramanathan-Bala Pvt Ltd,Manufacturer,Mysuru,Karnataka,Warinder Ganesh,3927850560,tristan16@nigam.com,2.6,10,15,4.36,98.49
+29,Nath-Gaba Pvt Ltd,Local Vendor,New Delhi,Delhi,George Sankaran,5830501586,vrinda47@subramanian.com,3.7,5,60,4.07,84.93
+30,Sinha-Balakrishnan Pvt Ltd,Importer,Pune,Maharashtra,Sarthak Soni,2660647046,handanilima@varma.net,4.8,14,60,1.36,94.4
+31,"Bhasin, Gupta and Sawhney Pvt Ltd",Distributor,Hyderabad,Telangana,Rudra Panchal,8788184032,quincy27@biswas-goswami.com,3,5,15,2.65,91.65
+32,Bir-Dey Pvt Ltd,Manufacturer,Kolkata,West Bengal,Imaran Date,1512447715,siyaborra@gopal.info,4,10,30,0.35,91.04
+33,Mohan Group Pvt Ltd,Manufacturer,Chennai,Tamil Nadu,Brinda Rama,840313514,hthakkar@palla.biz,4.2,5,60,0.63,97.85
+34,Ghosh PLC Pvt Ltd,Manufacturer,New Delhi,Delhi,Jonathan Verma,5284514664,miyengar@rout.org,3.5,11,45,4.21,85.64
+35,"Gola, Shankar and Sathe Pvt Ltd",Importer,Kolkata,West Bengal,Geetika Walia,6485297249,drandhawa@dalal.info,3.5,12,45,2.11,98.54
+36,Kumar and Sons Pvt Ltd,Local Vendor,Bengaluru,Karnataka,Amol Sundaram,3611822911,sundaramnathan@pandit-palla.com,4.1,11,15,0.42,85.79
+37,Peri PLC Pvt Ltd,Importer,Ahmedabad,Gujarat,Fariq Sankaran,9044519362,zilmilhayre@ahuja.info,4.7,5,45,1.35,89.8
+38,"Jain, Pai and Kanda Pvt Ltd",Manufacturer,Hyderabad,Telangana,Ekansh Bhasin,3862205332,frado51@dugar.net,4.2,10,45,4.2,83.84
+39,Bala PLC Pvt Ltd,Manufacturer,Coimbatore,Tamil Nadu,Varsha Mander,9187728982,praneel04@nadkarni.com,4.7,13,30,1.3,92.77
+40,"Pandit, Kalita and Sahni Pvt Ltd",Importer,Kolkata,West Bengal,Aayush Pingle,6151096861,nidhi00@deo-narain.com,3.8,6,15,0.51,89.54
+41,"Bandi, Gulati and Date Pvt Ltd",Manufacturer,Ahmedabad,Gujarat,Anirudh Varty,804859567,krishnananirudh@sheth-dube.com,3.3,4,45,0.81,89.86
+42,Dara-Puri Pvt Ltd,Manufacturer,Bhopal,Madhya Pradesh,Mekhala Ravel,4496374885,amara23@master.com,2.7,13,30,2.5,96.86
+43,"Basu, Master and Bedi Pvt Ltd",Local Vendor,Lucknow,Uttar Pradesh,Mohini Seshadri,5529953498,netra42@bahl.net,2.8,6,45,4.06,96.17
+44,Shenoy and Sons Pvt Ltd,Distributor,Pune,Maharashtra,Ekbal Pandya,52303006,chaudharikrisha@raval.com,4.2,12,15,1.66,91.97
+309,Kota-Nagar Pvt Ltd,Importer,Jaipur,Rajasthan,Wahab Seth,7437098490,zilmil18@ray-naik.com,3.4,14,60,1.71,98.59
+45,Sunder Inc Pvt Ltd,Distributor,Bhopal,Madhya Pradesh,Chandresh Srivastava,3446754182,abhimanyusankaran@badami-borde.net,4.7,14,30,3.98,82.44
+46,"Gera, Bhatia and Kalla Pvt Ltd",Distributor,Kolkata,West Bengal,Qabil Lala,5142791829,yuvraj81@ramaswamy.com,3.2,14,15,1.78,82.69
+47,Kunda-Ganesh Pvt Ltd,Distributor,Jaipur,Rajasthan,Nachiket Varughese,9398055991,anayak@jani-prabhakar.com,4.5,9,45,1.44,96.16
+48,Barad-Batta Pvt Ltd,Manufacturer,New Delhi,Delhi,Siya Deo,6476866660,adwetabalakrishnan@suresh-raj.net,4.2,8,45,1.33,83.24
+49,Hayer Ltd Pvt Ltd,Local Vendor,Surat,Gujarat,Brijesh Bhatti,4538681566,zilmilbhargava@chandra.biz,4.2,10,45,4.23,84.05
+50,Apte Ltd Pvt Ltd,Importer,Ahmedabad,Gujarat,Siddharth Wason,864617844,chakrika30@kurian.com,2.6,11,60,1.62,96
+51,Shan-Sahota Pvt Ltd,Local Vendor,Bhopal,Madhya Pradesh,Sathvik Borra,7186164295,ekiyabrar@warrior.com,4.7,5,45,0.3,89.76
+52,"Dayal, Sabharwal and Munshi Pvt Ltd",Importer,Hyderabad,Telangana,Kashish Arya,2414487645,zaitrasaran@lala.com,3.6,12,45,2.84,93.81
+53,Samra Group Pvt Ltd,Importer,Mysuru,Karnataka,Lila Tara,2748975120,brijesh35@nagar.com,4.2,7,60,3.17,91.87
+54,Narayanan LLC Pvt Ltd,Local Vendor,New Delhi,Delhi,Neel Brahmbhatt,8158738422,ekanichowdhury@iyengar.com,4.2,4,45,1.89,96.84
+55,"Bhatti, Menon and Bhandari Pvt Ltd",Distributor,Surat,Gujarat,Rajata Karan,4408638670,pandyajanani@ravi.biz,3.6,11,45,2.15,89.87
+56,"Varughese, Ganguly and Brar Pvt Ltd",Distributor,New Delhi,Delhi,Tanish Murty,2781570859,unnatipandit@vyas.org,4.1,6,45,0.51,98.95
+57,Minhas Group Pvt Ltd,Distributor,New Delhi,Delhi,Nakul Gopal,4320647184,sneha85@patla.com,4.5,4,15,0.3,99.51
+58,Bora-Karan Pvt Ltd,Local Vendor,Lucknow,Uttar Pradesh,Ganga Sur,5195044209,fredericktailor@jaggi.com,3.5,12,30,3.26,88.83
+59,Ganesh-Mistry Pvt Ltd,Distributor,Bhopal,Madhya Pradesh,Agastya Morar,2407398370,lavanyagolla@dugar.com,4.1,2,15,3.53,85.9
+60,Pandya-Palla Pvt Ltd,Manufacturer,Hyderabad,Telangana,Anika Master,9004583898,sawhneyzayyan@brahmbhatt.net,3.9,3,60,0.69,90.27
+61,Dhar-Patel Pvt Ltd,Local Vendor,Hyderabad,Telangana,Wazir Thaman,8100899690,amolbahl@venkataraman.org,4,13,60,3.75,91.75
+62,"Kadakia, Rege and Choudhry Pvt Ltd",Local Vendor,Coimbatore,Tamil Nadu,Nihal Nadkarni,1940041192,rhans@srivastava.info,3.1,5,45,3.47,91.28
+63,"Viswanathan, Keer and Shan Pvt Ltd",Local Vendor,New Delhi,Delhi,Nathaniel Menon,1108019881,anmolnanda@keer.com,2.7,6,30,1.3,87.69
+64,Jain LLC Pvt Ltd,Distributor,Hyderabad,Telangana,Rishi Lanka,2072954555,modychakradev@sabharwal.net,2.9,8,30,3.21,83.14
+65,"Shukla, Sinha and Bandi Pvt Ltd",Local Vendor,Indore,Madhya Pradesh,Vedika Kanda,4633078105,unnatidua@rau.net,3.5,5,60,1.81,95.7
+66,"Jayaraman, Mitter and Narayan Pvt Ltd",Local Vendor,Nagpur,Maharashtra,Faqid Nagar,7004095818,acharyagunbir@handa-wali.net,3.7,7,45,3.42,97.19
+67,"Sachdev, Balay and Sachar Pvt Ltd",Local Vendor,Bhopal,Madhya Pradesh,Aadhya Sami,776519054,chandresh54@barad-bora.com,3,8,60,0.23,87.98
+68,Divan LLC Pvt Ltd,Local Vendor,Bhopal,Madhya Pradesh,Baljiwan Khanna,8440760247,anmolshukla@varma.org,4.8,11,15,4.09,92.54
+69,"Devan, Biswas and Nagy Pvt Ltd",Local Vendor,Mumbai,Maharashtra,Yasti Sant,1897388239,gunbir26@savant.info,2.8,9,30,0.32,88.75
+70,Setty PLC Pvt Ltd,Importer,New Delhi,Delhi,Sudiksha Khanna,5092141840,naranggautami@varghese.com,3.3,8,45,3.41,96.81
+71,"Ramanathan, Suri and Raghavan Pvt Ltd",Local Vendor,Ahmedabad,Gujarat,Nicholas Tiwari,5905832371,oliver58@bhatia-nori.com,2.5,10,15,4.5,88.23
+72,Hari PLC Pvt Ltd,Manufacturer,Bengaluru,Karnataka,Sanya Purohit,8066317004,david96@goyal.org,4.9,5,15,2.83,86.25
+73,"Puri, Mandal and Sama Pvt Ltd",Distributor,Jaipur,Rajasthan,Gabriel Kalla,3399370627,triya50@borra.info,3.7,6,45,0.84,92.81
+74,Patel Inc Pvt Ltd,Importer,Bengaluru,Karnataka,Jagat Ravi,3463234112,tanmayikale@bawa.com,2.8,2,45,2.63,98.16
+75,Walla-Deep Pvt Ltd,Distributor,Indore,Madhya Pradesh,Garima Chaudhuri,6747446699,bbajaj@narayan.com,2.7,13,30,0.55,95.75
+76,Chander-Kar Pvt Ltd,Manufacturer,Lucknow,Uttar Pradesh,Adweta Ganguly,6883696843,hemanibhavsar@dutt.com,3.4,8,45,0.4,93.53
+77,Das Ltd Pvt Ltd,Local Vendor,Pune,Maharashtra,Max Sathe,3370774159,avniyohannan@sule.biz,2.8,7,60,3.21,89.75
+78,Subramaniam-Boase Pvt Ltd,Local Vendor,Hyderabad,Telangana,Isaiah Pant,3522193578,panchalfaqid@balay-handa.com,3.7,13,45,1.52,86.37
+79,Krishnamurthy LLC Pvt Ltd,Local Vendor,Mysuru,Karnataka,Ekaja Warrior,1744925860,rudra93@sachdeva-gandhi.com,3.1,9,60,1.58,90.8
+80,Sehgal Ltd Pvt Ltd,Local Vendor,Kolkata,West Bengal,Madhav De,6921222382,gauri99@subramaniam.com,3,14,45,1.6,97.67
+81,Patil-Dhillon Pvt Ltd,Distributor,Ahmedabad,Gujarat,Anmol Ganguly,5128105207,ikala@bobal.com,2.7,13,60,2.25,95.5
+82,Chakrabarti-Tella Pvt Ltd,Local Vendor,Jaipur,Rajasthan,Ryan Anne,7765344876,urvashi59@dora-wason.com,4.5,3,45,1.08,94.31
+83,Varughese and Sons Pvt Ltd,Local Vendor,Surat,Gujarat,Turvi Sagar,2699738301,harishgour@loke-krish.com,3.9,7,60,4.49,91.8
+84,Kaur-Naik Pvt Ltd,Importer,Kolkata,West Bengal,Henry Bakshi,5389318065,nidhi77@talwar-setty.com,3.3,5,15,3.27,87.62
+85,Dhar Inc Pvt Ltd,Distributor,Hyderabad,Telangana,Vansha Lala,3635297263,orinderkala@manne-reddy.net,3,9,45,3.29,99.38
+86,"Mallick, Naidu and Tailor Pvt Ltd",Manufacturer,Hyderabad,Telangana,Sanya Dave,4948447059,bassiradha@dora.biz,4.6,6,30,1.69,87.38
+87,"Narain, Vala and Oak Pvt Ltd",Importer,Hyderabad,Telangana,Theodore Vasa,2662640353,ewali@mani.biz,2.6,2,45,3.17,84.25
+88,Balakrishnan-Bawa Pvt Ltd,Manufacturer,Jaipur,Rajasthan,Gayathri Thakur,4035264042,madhavisrinivasan@mannan.com,3.9,9,60,2.04,85.28
+89,Mitra Inc Pvt Ltd,Local Vendor,Pune,Maharashtra,Shivansh Tailor,8247577049,widishadora@loke.com,2.8,3,60,2.26,92.27
+90,Gola-Dave Pvt Ltd,Distributor,Mumbai,Maharashtra,Darsh Kuruvilla,4540013973,ekbal42@chandra.biz,4.5,6,15,4.47,84.11
+91,Shroff Ltd Pvt Ltd,Local Vendor,Bhopal,Madhya Pradesh,Udant Kaul,7137462047,vansha57@chander.org,3.6,9,45,3.88,99.62
+92,Sinha Inc Pvt Ltd,Manufacturer,Ahmedabad,Gujarat,Rajeshri Sahni,9722239555,advaith72@sahota.com,4.9,5,30,1.26,83.45
+93,Ghose Ltd Pvt Ltd,Manufacturer,New Delhi,Delhi,Aayush Suri,5017412407,groveryahvi@dutt-khatri.com,2.9,8,60,3.13,90.36
+94,Vaidya Group Pvt Ltd,Importer,Mumbai,Maharashtra,Chakradhar Boase,2795019353,anusha95@talwar.com,4.3,13,60,0.41,86.15
+95,"Sarkar, Pau and Mohan Pvt Ltd",Local Vendor,Ahmedabad,Gujarat,Ekani Chowdhury,3730496914,patrickbanerjee@anne-sandhu.com,2.8,5,30,4.1,96.71
+96,Bhatnagar-Shanker Pvt Ltd,Distributor,Bengaluru,Karnataka,Radha Dave,147651580,travi@doshi-manda.com,4.5,11,45,2.03,90.34
+97,"Loke, Goda and Apte Pvt Ltd",Importer,Surat,Gujarat,Ekiya Batta,8121912085,wbains@nadkarni.com,3.8,9,60,0.45,82.71
+98,Parmer Ltd Pvt Ltd,Importer,Indore,Madhya Pradesh,Keya Sinha,5062423745,brijesh74@savant-dhingra.org,2.6,5,15,4.5,93.97
+99,Gola-Mander Pvt Ltd,Distributor,Ahmedabad,Gujarat,Bishakha Ramanathan,1918384370,aarnavsalvi@modi-krishna.biz,3.7,12,60,4.13,85.23
+100,Sant-Natarajan Pvt Ltd,Local Vendor,Noida,Uttar Pradesh,Balendra Ghose,2594625915,gsane@hora-balasubramanian.com,4.9,9,45,1.9,87.71
+101,"Baral, Pingle and Badami Pvt Ltd",Importer,Bengaluru,Karnataka,Isha Chada,7339763307,azadrajan@divan-karpe.info,3.5,9,45,3.02,89.13
+102,Mohanty-Nadkarni Pvt Ltd,Local Vendor,Hyderabad,Telangana,Qabil Jani,6317834525,chadhaliam@parekh.net,2.7,6,45,0.61,95.75
+103,Shanker-Rout Pvt Ltd,Local Vendor,Hyderabad,Telangana,Chaitaly Kapoor,7654825342,dasguptadaniel@sarin-palla.biz,3.5,5,45,2.84,90.87
+104,Mall-Lad Pvt Ltd,Distributor,Jaipur,Rajasthan,Yashoda Saha,7937689956,vincent65@divan.com,3.2,4,45,2.03,94.43
+105,Gill LLC Pvt Ltd,Distributor,Bengaluru,Karnataka,Ojasvi Tak,6893678493,nadigikshita@pingle-parsa.com,4.3,6,15,2.53,83.66
+106,Joshi Ltd Pvt Ltd,Manufacturer,Mysuru,Karnataka,Andrew Sibal,1389883486,zbali@sawhney-sridhar.com,4.1,4,60,4.2,87.2
+107,Vig-Badal Pvt Ltd,Local Vendor,Surat,Gujarat,Devansh Taneja,406078799,mishraanmol@datta.info,5,5,60,2.53,88.83
+108,Gour Ltd Pvt Ltd,Manufacturer,Lucknow,Uttar Pradesh,Nidra Kulkarni,3760964418,omisha89@gokhale-chakraborty.info,3.2,14,60,1.6,96.02
+109,Mammen and Sons Pvt Ltd,Importer,Ahmedabad,Gujarat,Xalak Mahal,693849883,opai@deo.net,4.3,11,60,3.91,89.95
+110,Raju Inc Pvt Ltd,Importer,Jaipur,Rajasthan,Falguni Bora,2263962924,mistrychanakya@narasimhan-sangha.org,3.9,10,60,2.1,87.73
+111,Keer-Dhar Pvt Ltd,Local Vendor,New Delhi,Delhi,Kiaan Gopal,2284686692,radhika76@mallick.com,3.1,14,60,0.29,95.26
+112,Sachdeva PLC Pvt Ltd,Distributor,Indore,Madhya Pradesh,Garima Date,8564535028,indalirout@bose-sastry.com,3.7,2,30,2.31,92.51
+113,Sethi PLC Pvt Ltd,Manufacturer,Mysuru,Karnataka,Yoshita Shan,6266276747,bina04@manne.com,3.8,9,15,3.28,89.3
+114,Chakraborty-Bedi Pvt Ltd,Local Vendor,Chennai,Tamil Nadu,Veda Biswas,7735319156,gaurang18@bakshi.com,4.5,6,45,2.84,89.08
+115,Sachdev Ltd Pvt Ltd,Local Vendor,Mysuru,Karnataka,Daksh Bassi,5403009089,uamble@srivastava.info,4.9,12,60,3.94,82.64
+116,"Dasgupta, Palan and Wagle Pvt Ltd",Importer,Bengaluru,Karnataka,Udyati Arya,9801320122,krishqabil@grover.com,5,13,15,2.01,83.75
+117,"Gopal, Ramakrishnan and Wagle Pvt Ltd",Distributor,Mysuru,Karnataka,Tanvi Joshi,2155096402,aarav65@dhawan-pingle.net,4.2,2,15,1.53,83
+118,"Thakkar, Mann and Guha Pvt Ltd",Local Vendor,Kolkata,West Bengal,Noah Balan,8136010693,devikeya@narasimhan.info,2.9,10,60,2.59,96.11
+119,"Pau, Mani and Seshadri Pvt Ltd",Manufacturer,Chennai,Tamil Nadu,Vritti Sinha,5753479927,mannanyashawini@rout.com,4,8,30,2.29,92.38
+120,Bhardwaj-Pal Pvt Ltd,Importer,New Delhi,Delhi,Gautam Kara,8464226548,yahvikale@baral.biz,3.6,12,15,4.06,90.28
+121,Som Group Pvt Ltd,Manufacturer,Ahmedabad,Gujarat,Radha Rau,1921448985,sankaranisaac@naidu.biz,3.6,7,45,2.91,89.55
+122,"More, Hayre and Dua Pvt Ltd",Importer,Surat,Gujarat,Amruta Thaker,2423447645,michaelkalla@basu.com,3,8,60,0.57,88.79
+123,Sarkar Ltd Pvt Ltd,Importer,Kolkata,West Bengal,Isaiah Ram,6645362698,basuchatura@vora.com,2.6,12,60,1.31,92.07
+124,"Kala, Lala and Chahal Pvt Ltd",Local Vendor,Nagpur,Maharashtra,Reva Sekhon,3316079151,bhanumatioak@krishnan.net,4.6,6,30,2.77,88.27
+125,Deshmukh PLC Pvt Ltd,Distributor,New Delhi,Delhi,Sachi Sarna,8826514038,ekalinga67@soni.info,4.1,12,15,1.46,89.85
+126,Ravel LLC Pvt Ltd,Distributor,Noida,Uttar Pradesh,Bahadurjit Srinivas,3263658578,qabilminhas@balasubramanian.com,2.7,6,45,3.39,85.13
+127,Kumar-Hora Pvt Ltd,Importer,Coimbatore,Tamil Nadu,Amruta Viswanathan,3652332747,finn46@kaul.com,4.6,6,60,4.36,87.25
+128,Vora Inc Pvt Ltd,Local Vendor,Kolkata,West Bengal,Deepa Sanghvi,6811589008,ethan53@shah-rastogi.com,4.9,4,30,3.88,94.89
+129,"Master, Varma and Parmer Pvt Ltd",Manufacturer,Indore,Madhya Pradesh,Adweta Subramanian,6173303586,adwetavenkataraman@dugar-saha.com,4.5,2,45,2.46,90.1
+130,"Mittal, Dua and Iyer Pvt Ltd",Importer,Surat,Gujarat,Faqid Iyer,2100522839,jaggarwal@shukla-deshpande.info,2.8,5,60,0.21,97.74
+131,"Dutta, Narain and Dayal Pvt Ltd",Distributor,Hyderabad,Telangana,Rachita Patel,9168872002,gaurang10@merchant-master.net,4.1,12,60,4.1,87.38
+132,Kala Ltd Pvt Ltd,Distributor,Bhopal,Madhya Pradesh,Gauri Dasgupta,8125391453,suhani74@ben-vyas.com,2.6,2,45,4.48,84.07
+133,Yadav-Buch Pvt Ltd,Local Vendor,New Delhi,Delhi,David Madan,8929271423,chaudhurikalpit@deshmukh.com,3.6,12,60,2.68,94.93
+134,Sahni-Chaudhary Pvt Ltd,Local Vendor,Bhopal,Madhya Pradesh,Bhavani Ray,6019829408,omnagy@mody-bala.com,4,6,15,3.14,85.87
+135,Kalla-Basu Pvt Ltd,Importer,Jaipur,Rajasthan,Chatresh Bose,5773246031,bhallabalendra@bahl-taneja.info,2.7,12,45,2.5,99.41
+136,More-Bhatti Pvt Ltd,Local Vendor,Kolkata,West Bengal,Balveer Contractor,8531504577,zilmildesai@sanghvi-anne.org,3.2,3,60,0.5,85.78
+137,"Subramaniam, Grewal and Suresh Pvt Ltd",Manufacturer,Lucknow,Uttar Pradesh,Gaurang Oommen,1427327004,diya78@sood-rajagopalan.com,4.5,5,30,3.56,85.65
+138,Thaker and Sons Pvt Ltd,Distributor,Hyderabad,Telangana,Faqid Ghosh,9447605127,ekanshgara@pal.com,4.5,5,45,3.51,96.04
+139,"Grover, Madan and Mall Pvt Ltd",Importer,Lucknow,Uttar Pradesh,Ekalinga Dhar,2924595178,ozayash@gupta.net,4.6,4,30,2.48,96.21
+140,Apte-Maharaj Pvt Ltd,Distributor,Bengaluru,Karnataka,Tanish Jaggi,9418521904,pratyushpanchal@bir.info,2.5,14,30,2.69,82.28
+141,"Sha, Mittal and Borra Pvt Ltd",Distributor,Ahmedabad,Gujarat,Upadhriti Chandran,9205010386,csavant@goel.com,4.4,10,15,3.38,90.48
+142,"Boase, Raval and Sangha Pvt Ltd",Local Vendor,Kolkata,West Bengal,Maya Kurian,9174741579,randhawaaditya@anand.biz,3.8,11,15,3.3,98.18
+143,Sundaram PLC Pvt Ltd,Local Vendor,Hyderabad,Telangana,Ekta Batta,5989445282,ati61@gandhi.biz,4.1,2,15,4.49,97.08
+144,"Bhatnagar, Goswami and Chander Pvt Ltd",Local Vendor,Bhopal,Madhya Pradesh,Varenya Nagar,510528277,fradochander@parekh.com,4.3,9,15,4.06,87.73
+145,"Date, Cheema and Kaul Pvt Ltd",Distributor,Chennai,Tamil Nadu,Aadhya Lad,7968878080,iyerkrisha@reddy.com,3.2,12,45,1.78,92.63
+146,Pradhan and Sons Pvt Ltd,Local Vendor,Surat,Gujarat,Naveen Ganesan,8635255253,tripti72@balakrishnan-hayre.com,2.7,13,15,3.85,93.59
+147,Sem Group Pvt Ltd,Local Vendor,Hyderabad,Telangana,Ekani Nair,3348979498,bajwadayita@devan.biz,3.6,5,60,1.59,90.07
+148,Hari-Viswanathan Pvt Ltd,Importer,Bhopal,Madhya Pradesh,Brijesh Tara,7253733286,chandran48@gara-korpal.com,3.6,12,45,1.75,84.72
+149,Loke PLC Pvt Ltd,Manufacturer,Jaipur,Rajasthan,Jeet Borde,5686315889,sbuch@kadakia.com,4.6,3,60,0.52,95.15
+150,Shetty and Sons Pvt Ltd,Importer,Chennai,Tamil Nadu,Ryan Vyas,6530120053,ansh33@rege.com,4.2,8,45,3.94,98.75
+151,"Mitter, Dugal and Dhillon Pvt Ltd",Importer,Bhopal,Madhya Pradesh,Daksha Doctor,609640626,rachit42@mammen.com,4,7,15,2.64,85.79
+152,"Pillai, Dutt and Padmanabhan Pvt Ltd",Manufacturer,Jaipur,Rajasthan,Gagan Mallick,9811062603,forum84@kade-anand.com,3.4,10,45,0.61,86.96
+153,Pant PLC Pvt Ltd,Manufacturer,New Delhi,Delhi,Ethan Gole,4946027231,ttak@varkey.net,4,12,45,0.23,86.86
+154,Sekhon-Sinha Pvt Ltd,Importer,Surat,Gujarat,Raghav Chadha,5699721759,basakpraneel@choudhary.com,2.5,4,60,0.41,95.19
+155,Menon-Bhasin Pvt Ltd,Distributor,Mumbai,Maharashtra,Sneha Loke,6173865821,wableyoshita@tiwari.com,3.4,9,45,0.79,87.55
+156,Nayak-Babu Pvt Ltd,Manufacturer,Kolkata,West Bengal,Fitan Dutta,3548083685,parikhpatrick@raval-sachdev.com,2.9,14,15,3.07,86.84
+157,"Nagy, Sachdev and Ganesan Pvt Ltd",Local Vendor,Indore,Madhya Pradesh,Jeet Mitter,3783808573,hritik36@gola-hora.com,3.5,5,15,1.62,83.97
+158,Sane-Nath Pvt Ltd,Importer,Noida,Uttar Pradesh,Chakradhar Banik,7379286990,ojasvikhatri@chadha-mammen.net,2.6,8,15,0.13,87.37
+159,"Parmer, Gulati and Mukhopadhyay Pvt Ltd",Importer,New Delhi,Delhi,Ishaan Issac,6680220507,hamsini18@rana-brar.com,3.2,3,15,2.29,89.67
+160,Dhar-Mani Pvt Ltd,Distributor,Coimbatore,Tamil Nadu,Onkar Wason,7795190194,lakshmi19@mangat.net,3.8,12,45,0.42,97.34
+161,"Garde, Mander and Shankar Pvt Ltd",Manufacturer,Pune,Maharashtra,Aashi Shukla,4953040651,ranveer93@kohli.com,3.6,3,45,2.63,92.21
+162,"Hora, Wable and Sagar Pvt Ltd",Manufacturer,Indore,Madhya Pradesh,Azad Dugar,7802650011,anvipandey@kala.info,3.5,7,30,3.63,93
+163,Munshi Ltd Pvt Ltd,Local Vendor,Kolkata,West Bengal,Qushi Chakrabarti,9619436625,lrau@nazareth.com,4.6,5,60,2.69,91.33
+164,Badal Ltd Pvt Ltd,Importer,Indore,Madhya Pradesh,Wridesh Khatri,5225915388,bedialexander@sheth.com,3.1,14,30,0.44,93.27
+165,Mann-Ghose Pvt Ltd,Importer,Hyderabad,Telangana,Reyansh Sandhu,6680675434,ukhalsa@divan-kulkarni.org,3.4,12,30,1.14,84.61
+166,Bedi-Zacharia Pvt Ltd,Distributor,New Delhi,Delhi,Aashi Wable,5001872355,baghyawati95@munshi-hayer.biz,4.4,12,15,0.88,95.76
+167,Saxena-Dass Pvt Ltd,Local Vendor,Jaipur,Rajasthan,Saumya Oommen,5272458149,iverma@boase.biz,4.2,11,45,3.9,93.16
+168,Bansal-Om Pvt Ltd,Manufacturer,Coimbatore,Tamil Nadu,Saanvi Narang,3191953782,ebawa@pai.com,3.7,12,45,3.6,92.53
+169,"Chada, Mammen and Dash Pvt Ltd",Importer,Kolkata,West Bengal,Wishi Bail,927906887,mannsai@balan.com,3.7,2,15,1.72,87.11
+170,"Kibe, Rajagopal and Oak Pvt Ltd",Local Vendor,Mysuru,Karnataka,Aarav Das,1402340515,datefitan@gopal-varma.com,4,14,15,2.08,96.41
+171,Rajan PLC Pvt Ltd,Local Vendor,New Delhi,Delhi,Ranbir Tripathi,4663655327,tanay65@andra.org,3.8,2,60,0.56,98
+172,"Jhaveri, Rastogi and Setty Pvt Ltd",Distributor,Kolkata,West Bengal,Eta Sami,9880459190,sidhuisaiah@pradhan.com,2.6,13,60,4.46,91.33
+173,Konda-Nayak Pvt Ltd,Importer,Lucknow,Uttar Pradesh,Max Shenoy,322654456,vinaya39@lanka.biz,3.4,6,60,1.9,88.02
+174,"Kohli, Ramaswamy and Jaggi Pvt Ltd",Importer,Lucknow,Uttar Pradesh,Anay Kalla,9641896109,atharv32@rege.com,2.7,3,60,1.35,94.88
+175,Naik-Doctor Pvt Ltd,Importer,Lucknow,Uttar Pradesh,Veer Koshy,3492633843,voradaksha@johal.com,2.7,12,30,4.13,87.52
+176,Jaggi LLC Pvt Ltd,Manufacturer,Bhopal,Madhya Pradesh,Yashawini Doctor,8990081553,shethvrishti@raghavan.com,3.3,8,45,3.68,93.93
+177,Dutt-Garg Pvt Ltd,Local Vendor,Hyderabad,Telangana,Balvan Sawhney,1518299117,jseth@chaudhari-kala.net,3.8,2,45,1.46,98.93
+178,Rao-Bhatti Pvt Ltd,Distributor,Kolkata,West Bengal,Rachita Jaggi,7331910367,doctormugdha@mammen-hayer.info,3.1,4,30,0.44,97.03
+179,"Pathak, Goel and Char Pvt Ltd",Importer,Bengaluru,Karnataka,Vasudha Bains,3953643702,orinder95@cherian.com,4.7,11,30,2.73,84.75
+180,Pall-Barad Pvt Ltd,Local Vendor,Chennai,Tamil Nadu,Nitara Roy,4121039323,bhardwajmitali@nagarajan.net,2.6,7,30,4.37,92.87
+181,Warrior Inc Pvt Ltd,Distributor,Jaipur,Rajasthan,Lucky Prashad,4544571802,falaksarna@nadkarni-kapur.biz,3.3,14,60,4.08,85.45
+182,"Muni, Dugar and Bala Pvt Ltd",Local Vendor,Noida,Uttar Pradesh,Devansh Kade,8306259137,dayamaibakshi@badal-sama.com,4.4,14,60,2.31,89.45
+183,Brahmbhatt-Dey Pvt Ltd,Distributor,Chennai,Tamil Nadu,Saumya Virk,7569607032,hemal89@deshpande.info,4.7,2,60,3.95,91.87
+184,Khatri PLC Pvt Ltd,Importer,Bengaluru,Karnataka,Warjas Lal,438089526,yashvi09@narain.com,2.7,4,45,2.08,91.14
+185,"Bhargava, Karan and Palla Pvt Ltd",Distributor,Bhopal,Madhya Pradesh,Yahvi Madan,3414165282,ramanathanishani@issac.com,4.5,7,15,1.93,89.06
+186,Taneja-Saxena Pvt Ltd,Local Vendor,Kolkata,West Bengal,Kavya D’Alia,594874082,rayaancheema@bhattacharyya.net,5,7,30,0.22,98.57
+187,Om Inc Pvt Ltd,Distributor,Kolkata,West Bengal,Faras Dave,7778860714,eramakrishnan@dhar-singh.info,2.6,9,30,3.44,90.35
+188,Gara LLC Pvt Ltd,Manufacturer,Lucknow,Uttar Pradesh,Chandran Saha,250297564,lnarain@sani-raja.com,2.5,5,30,2.51,94.94
+189,Dey-Chaudry Pvt Ltd,Manufacturer,Hyderabad,Telangana,Chanakya Mukherjee,9899355571,anamikasule@deshpande.com,4.4,5,45,0.64,86.24
+190,"Dube, Jhaveri and Chaudry Pvt Ltd",Manufacturer,Noida,Uttar Pradesh,Gaurangi Ram,7781624991,aviratta@kapoor.com,2.8,9,15,2.88,92.24
+191,"Srinivasan, Bhavsar and Dey Pvt Ltd",Local Vendor,Coimbatore,Tamil Nadu,Hardik Bumb,6877230345,arya03@malhotra.com,2.5,7,30,2.61,85.33
+192,Chacko-Bora Pvt Ltd,Manufacturer,Mysuru,Karnataka,Gavin Panchal,8550097215,ramomisha@keer-deep.com,4.9,10,15,1.82,90.37
+193,"Krishnan, Acharya and Khanna Pvt Ltd",Importer,Indore,Madhya Pradesh,Barkha Sawhney,5749600449,fradochaudry@minhas.info,4.4,7,15,1.62,95.05
+194,"Dhar, Bawa and Hari Pvt Ltd",Distributor,Mysuru,Karnataka,Ekanta Patel,2406607224,khalsamekhala@sarin.info,2.6,10,45,3.68,85.12
+195,"Palla, Palla and Mohanty Pvt Ltd",Distributor,Jaipur,Rajasthan,Vidhi Lanka,3449282042,qadimmanne@dass.com,4.5,3,60,0.26,85.59
+196,Natt-Bhat Pvt Ltd,Importer,New Delhi,Delhi,Harshil Parmar,2833534431,chanchal36@mani.info,4.8,10,60,4.45,91.67
+197,"Mandal, Kale and Kapur Pvt Ltd",Distributor,Ahmedabad,Gujarat,Panini Singh,940747832,raagini75@swaminathan.com,3.2,14,15,3.91,87.91
+198,Nadig-Dara Pvt Ltd,Local Vendor,Mysuru,Karnataka,Ekavir Kumar,7504783225,omkaarshenoy@chahal-sarkar.com,4.7,13,60,4.04,88.88
+199,Ray-Sandal Pvt Ltd,Local Vendor,Coimbatore,Tamil Nadu,Thomas Varughese,9922068654,dadaanmol@varkey-sridhar.com,3.4,14,45,3.63,94.94
+200,"Dixit, Wadhwa and Raman Pvt Ltd",Distributor,Mysuru,Karnataka,Zayan Bora,4130895767,udas@deep.biz,3.9,7,15,0.45,93.76
+201,Bir Ltd Pvt Ltd,Local Vendor,Surat,Gujarat,Liam Dalal,9376115051,atharvchaudhry@patel.com,2.9,9,45,2.07,94.94
+202,"Wason, Roy and Bawa Pvt Ltd",Importer,Kolkata,West Bengal,Anika Sathe,1874519857,zmunshi@varkey-dugal.org,4.1,14,15,0.43,93.35
+203,"Agate, Sangha and Kibe Pvt Ltd",Manufacturer,Kolkata,West Bengal,Amaira Ravi,5718935588,priya22@garg.com,2.9,11,60,0.25,83.2
+204,"Rajan, Dhingra and Amble Pvt Ltd",Local Vendor,Kolkata,West Bengal,Aayush Balay,5743060999,xalakgole@bal.com,4.9,2,30,3.09,98.89
+205,"Kale, Raman and Bera Pvt Ltd",Manufacturer,Kolkata,West Bengal,Max Sathe,7730781110,ulalla@badami.com,3.9,10,45,1.85,93.56
+206,Loyal Inc Pvt Ltd,Manufacturer,New Delhi,Delhi,Ikbal Prabhakar,7723944073,nathansekhon@patil-pathak.com,4.3,9,60,4.12,84.1
+207,Sankar-Vala Pvt Ltd,Distributor,Surat,Gujarat,Eshana Kale,4229977471,aayushsuresh@nayak-bera.com,5,6,60,0.98,84.42
+208,Oza LLC Pvt Ltd,Distributor,Mysuru,Karnataka,Sai Krish,3410215135,qchakraborty@tata.com,4.7,9,15,3.67,99.22
+209,D’Alia-Lad Pvt Ltd,Manufacturer,Kolkata,West Bengal,Balhaar Mander,4378714048,kondakashvi@puri.biz,3.9,6,45,3.85,94.67
+210,Grewal-Sood Pvt Ltd,Distributor,Coimbatore,Tamil Nadu,Bhavika Cheema,8879914758,snehakrishna@tank.net,2.8,5,30,1.14,90.79
+211,Sridhar Inc Pvt Ltd,Local Vendor,Kolkata,West Bengal,Edhitha Singh,9762032074,daksh36@bala.net,4.5,10,30,2.79,83.53
+212,Nadkarni and Sons Pvt Ltd,Local Vendor,Surat,Gujarat,Anya Dugal,9739478694,riya60@soman.com,3.8,14,60,3.72,83.31
+213,"Madan, Dua and Bora Pvt Ltd",Local Vendor,Kolkata,West Bengal,Rudra Narain,5245787207,balakrishnanvasudha@chadha.info,3.7,10,45,0.66,96.76
+214,Singh Ltd Pvt Ltd,Distributor,Hyderabad,Telangana,Theodore Sandhu,623607236,vasudhashukla@som-bhat.info,3.6,2,15,2.38,87.41
+215,Thaman-Randhawa Pvt Ltd,Distributor,Coimbatore,Tamil Nadu,Dalaja Dey,387344214,prishavarughese@gour.net,3.4,10,45,3.82,86.46
+216,"Ghosh, Kara and Edwin Pvt Ltd",Distributor,Hyderabad,Telangana,Zansi Saxena,8524349513,soodekaja@bala-johal.biz,4.1,11,15,2.31,85
+217,"Batra, Brahmbhatt and Sura Pvt Ltd",Distributor,Lucknow,Uttar Pradesh,Bhavini Chaudhuri,8597513358,aadiray@suresh.com,4.1,13,45,3.81,92.03
+218,Goyal PLC Pvt Ltd,Manufacturer,Mumbai,Maharashtra,Rushil Pau,2253349552,geramatthew@bava.com,4.9,14,45,2.96,95.65
+219,Korpal Group Pvt Ltd,Local Vendor,Bhopal,Madhya Pradesh,Udyati Varughese,7150839587,khatridipta@master.com,4.7,10,45,2.92,87.38
+220,"Nath, Pingle and Madan Pvt Ltd",Importer,New Delhi,Delhi,Anamika Kala,7549513364,mannanchakradev@badami.com,3.6,13,15,0.8,89.4
+221,"Naik, Sridhar and Chakraborty Pvt Ltd",Importer,Jaipur,Rajasthan,Chandresh Ramakrishnan,732575006,yatan33@sodhi.org,4,7,45,3.33,97.32
+222,Shroff and Sons Pvt Ltd,Importer,Bhopal,Madhya Pradesh,Andrew Dash,6268875466,viraj57@sur.com,3.8,3,45,1.16,84.18
+223,"Lal, Singh and Toor Pvt Ltd",Distributor,Jaipur,Rajasthan,Laban Dalal,2559712586,sagardaniel@brar.com,2.7,6,60,3.9,89.44
+224,"Kaur, Sethi and Agarwal Pvt Ltd",Importer,Coimbatore,Tamil Nadu,Hritik Gupta,5007201699,dpillai@kibe.com,3,4,60,4.48,90.31
+225,Parsa Group Pvt Ltd,Manufacturer,Surat,Gujarat,Ekani Sandal,4996127979,viraj71@chahal.com,2.7,8,60,4.35,85.83
+226,"Dar, Dora and Kashyap Pvt Ltd",Manufacturer,Kolkata,West Bengal,Atharv Parmar,5296150017,xchandran@balan.com,3.2,11,60,1.36,82.15
+227,Apte-Bhavsar Pvt Ltd,Distributor,Mysuru,Karnataka,Ishita Trivedi,9100747652,vincent83@acharya.com,4.7,13,45,3.46,88.51
+228,Master-Bali Pvt Ltd,Distributor,Bhopal,Madhya Pradesh,Hitesh Hans,9449994901,xwali@shankar.info,3.4,6,15,1.8,90.02
+229,"Deshmukh, Nazareth and Narayanan Pvt Ltd",Manufacturer,Hyderabad,Telangana,Rehaan Sidhu,6643320037,ekapadreddy@murthy.com,2.8,3,60,1.74,99.56
+230,"Srinivas, Ravi and Som Pvt Ltd",Distributor,Hyderabad,Telangana,Yahvi Dhingra,9421946856,choudhrymekhala@kadakia.com,3,10,60,2.3,82.81
+231,Barad-Som Pvt Ltd,Local Vendor,Coimbatore,Tamil Nadu,Rehaan Goda,3444952508,vedantdhaliwal@mand.biz,3.8,4,30,1.54,92.91
+232,"Sankar, Shroff and Mangal Pvt Ltd",Importer,Coimbatore,Tamil Nadu,Matthew Bhatia,9368279336,maanasmuni@bhasin.com,4,10,60,3.22,87.34
+233,Taneja-Srivastava Pvt Ltd,Importer,Pune,Maharashtra,Jagdish Peri,5980206563,harrisonsagar@sridhar.net,4.2,8,45,3.61,94.91
+234,"Hari, Mukherjee and Hans Pvt Ltd",Local Vendor,Nagpur,Maharashtra,Nathaniel Tandon,5922790213,tanvisom@swamy.com,3.2,12,30,3.27,92.39
+235,"Shenoy, Natarajan and Anand Pvt Ltd",Distributor,Coimbatore,Tamil Nadu,Nathaniel Chand,5866476316,narainrushil@dhawan.biz,4.6,5,15,2.62,94.47
+236,Wadhwa Group Pvt Ltd,Local Vendor,New Delhi,Delhi,Gautam Wason,9813351817,ira11@andra.info,3.3,4,60,3.14,89.3
+237,"Keer, Luthra and Gera Pvt Ltd",Manufacturer,Noida,Uttar Pradesh,Balendra Sani,904148392,dhillonyahvi@chadha.com,4.3,10,30,2.57,99.77
+238,Sachar-Shroff Pvt Ltd,Importer,Jaipur,Rajasthan,Benjamin Shukla,7559043283,aahanachokshi@bhargava.com,4.9,9,45,2.5,94.03
+239,Patel Group Pvt Ltd,Distributor,Surat,Gujarat,Viraj Nayak,2225725350,champakarya@badal-ramanathan.com,4.9,6,45,1.09,99.32
+240,"Aurora, Acharya and Dugar Pvt Ltd",Distributor,Surat,Gujarat,Nirja Dave,7146406218,xkala@nanda.biz,4.2,9,45,2.21,91.98
+241,Ganguly PLC Pvt Ltd,Manufacturer,Surat,Gujarat,Tejas Patla,3728230931,sathvikkulkarni@madan.org,3.9,10,60,4.04,89.02
+242,Badal-Konda Pvt Ltd,Importer,Kolkata,West Bengal,Odika Menon,813414298,divanchaman@mander.com,2.6,13,15,1.62,89.87
+243,Dara and Sons Pvt Ltd,Distributor,Surat,Gujarat,Oscar Warrior,6703916972,shettyzinal@chakrabarti.com,3,10,45,4.21,94.39
+244,"Hegde, Kar and Boase Pvt Ltd",Distributor,Chennai,Tamil Nadu,Qarin Mohanty,1540800556,uvenkatesh@dass.com,3.1,12,30,2.91,82.93
+245,Sundaram-Hora Pvt Ltd,Local Vendor,Indore,Madhya Pradesh,Nathaniel Grewal,5005950067,chadayatan@upadhyay.net,2.8,14,30,0.12,91.8
+246,Lad-Virk Pvt Ltd,Local Vendor,Coimbatore,Tamil Nadu,Robert Pandey,9991542073,borraadya@divan.org,3.7,5,45,1.51,93.5
+247,Mander PLC Pvt Ltd,Manufacturer,Bengaluru,Karnataka,Logan Jhaveri,7624669434,trivedikrish@bhagat-khanna.com,4.8,4,60,3.98,85.13
+248,Mishra Group Pvt Ltd,Local Vendor,Pune,Maharashtra,Waida Vala,7076275576,dalbirsaran@bhalla.com,3,13,45,3.96,82.16
+249,Gupta-Pillay Pvt Ltd,Importer,Lucknow,Uttar Pradesh,Peter Prabhakar,8457606543,nnarayan@shetty.org,3.2,12,60,4.01,84.39
+250,Chhabra-Keer Pvt Ltd,Importer,Hyderabad,Telangana,Falak Konda,358893007,hnarain@buch.com,3,3,45,0.81,90.17
+251,Iyengar-Borah Pvt Ltd,Manufacturer,Ahmedabad,Gujarat,Arunima Shanker,7617919284,yogidayita@shan.biz,4.3,14,45,2.6,95.48
+252,Parmer PLC Pvt Ltd,Local Vendor,Coimbatore,Tamil Nadu,Nandini Gokhale,9347953270,owen16@ranganathan-ramakrishnan.com,3.8,3,60,3.04,85.29
+253,Kumer LLC Pvt Ltd,Importer,Coimbatore,Tamil Nadu,Darika Ghosh,9004684261,baralanjali@chana-sagar.biz,4.8,2,45,1.79,89.95
+254,Mistry Inc Pvt Ltd,Importer,Surat,Gujarat,Abhiram Bhatia,3784532437,agatedaniel@buch-chaudhuri.com,4,11,15,1.25,88.4
+255,"Atwal, Bhargava and Kalla Pvt Ltd",Manufacturer,New Delhi,Delhi,Udyati Subramaniam,5119045346,hnatt@yohannan.com,3.7,4,60,3.12,98.43
+256,"Bobal, Sachar and Kashyap Pvt Ltd",Importer,Ahmedabad,Gujarat,Ethan Puri,5699554642,kiaannatt@dubey.info,3.4,5,30,4.31,90.51
+257,"Dube, Misra and Bhatia Pvt Ltd",Local Vendor,Jaipur,Rajasthan,Simon Kaur,5534989794,mganguly@bora.com,4.3,9,30,3.45,94.11
+258,"Sunder, Chopra and Sama Pvt Ltd",Local Vendor,Lucknow,Uttar Pradesh,Isha Char,7739535211,yahvimitra@bhatia.net,3.8,7,15,4.14,84
+259,"Yadav, Ray and Buch Pvt Ltd",Distributor,Hyderabad,Telangana,Rehaan Gade,5307371326,gadeyagnesh@rao.com,2.9,10,60,0.61,85.66
+260,"Vala, Dhar and Sandhu Pvt Ltd",Manufacturer,Noida,Uttar Pradesh,Lekha Shanker,5612142846,mittalindira@raja-oza.com,4.7,9,15,2.1,91.14
+261,Oza Inc Pvt Ltd,Local Vendor,Jaipur,Rajasthan,Qushi Verma,4613429703,qbiswas@khanna-din.biz,4.2,6,15,1.84,96.53
+262,Murthy-Ahluwalia Pvt Ltd,Manufacturer,New Delhi,Delhi,Omisha Nath,5124547076,suledipta@ganesh.com,3.6,13,15,2.48,83.07
+263,Rama-Shetty Pvt Ltd,Manufacturer,Mysuru,Karnataka,Tara Muni,9520052013,ydave@mangat.biz,3.2,4,30,3.47,99.41
+264,Nagy Inc Pvt Ltd,Local Vendor,Indore,Madhya Pradesh,Ria Date,3099310475,tarak79@prasad-bhardwaj.com,3.6,8,60,0.45,99.16
+265,"Bala, Keer and Nagar Pvt Ltd",Importer,Hyderabad,Telangana,Zaid Raj,9502210518,rachit74@bakshi.biz,2.8,10,60,2.43,94.96
+266,Grover PLC Pvt Ltd,Manufacturer,New Delhi,Delhi,Dev Menon,5141210910,dseth@kaur.com,4.9,9,60,2.44,96.66
+267,"Sarma, Srinivas and Ramakrishnan Pvt Ltd",Importer,New Delhi,Delhi,Jagrati Kothari,9734326803,geetika19@gala-bansal.com,2.9,5,15,0.24,93.75
+268,Bhardwaj-Devan Pvt Ltd,Distributor,Lucknow,Uttar Pradesh,Chaitanya Kadakia,6939226851,kvarkey@atwal.com,3,3,15,2.06,93.96
+269,Nanda-Gola Pvt Ltd,Manufacturer,Mumbai,Maharashtra,Frado Bava,1680447855,xbala@mall.com,3.5,5,30,3.42,95.81
+270,Oak-Ratta Pvt Ltd,Distributor,Coimbatore,Tamil Nadu,Zinal Butala,5048932949,raksha31@khurana.net,4.5,13,45,2.64,95.75
+271,Comar-Keer Pvt Ltd,Importer,Kolkata,West Bengal,Chatresh Panchal,9559275404,irattan@jani-sunder.com,4.7,12,30,1.92,86.9
+272,"Balan, Nazareth and Singh Pvt Ltd",Local Vendor,Hyderabad,Telangana,Chaaya Balasubramanian,3073232999,ijaya30@agrawal.com,3.9,2,45,4.24,93.95
+273,Pandit-Solanki Pvt Ltd,Local Vendor,Hyderabad,Telangana,Teerth Khare,2616917435,bhattacharyyadevika@barad-sachar.org,3.5,6,60,0.91,91.58
+274,Pathak Group Pvt Ltd,Importer,New Delhi,Delhi,Faras Viswanathan,8619090324,cbadami@mohan-balay.com,4.6,4,60,4.12,92.01
+275,"Kara, Dhingra and Kibe Pvt Ltd",Local Vendor,Bhopal,Madhya Pradesh,Pratyush Keer,1085459663,chadhawahab@bawa.com,3.1,5,45,2.95,98.42
+276,Bhandari Inc Pvt Ltd,Distributor,Kolkata,West Bengal,Chanakya Baria,4276281814,korpalneel@amble.org,2.6,8,15,3.94,85.35
+277,"Dada, Chada and Mallick Pvt Ltd",Local Vendor,Lucknow,Uttar Pradesh,Aarnav Bail,4286531003,yhora@dhingra.com,3,7,45,4.31,82.27
+278,"Butala, Goda and Saha Pvt Ltd",Local Vendor,New Delhi,Delhi,Gayathri Thakkar,3633936854,sroy@sunder.info,4.8,13,30,1.85,86.26
+279,Brar-Samra Pvt Ltd,Local Vendor,Kolkata,West Bengal,Tarak Bhavsar,9045678865,ekanta54@setty.com,3.7,12,45,1.46,88.4
+280,Rajagopalan Group Pvt Ltd,Manufacturer,Jaipur,Rajasthan,Bina Gade,6651055716,vaggarwal@nadig-chandran.biz,4.5,13,60,3.45,87.7
+281,"Prabhu, Grewal and Bora Pvt Ltd",Importer,New Delhi,Delhi,Gaurav Anand,7062807987,anandgirik@tak.com,3.5,11,30,3.36,82.29
+282,"Gaba, Garg and Buch Pvt Ltd",Importer,Hyderabad,Telangana,Faqid Mohan,9587069431,alexanderchowdhury@rana-sachar.org,2.9,7,30,1.77,96.83
+283,Kurian-Chakraborty Pvt Ltd,Importer,Jaipur,Rajasthan,Gunbir Khatri,9348553811,atharvkalla@chacko-gaba.info,4.4,9,60,2.13,95.04
+284,Koshy LLC Pvt Ltd,Distributor,Kolkata,West Bengal,Chakrika Tak,3177027265,cgera@mandal.com,4.3,9,30,4.13,91.65
+285,Chakrabarti Ltd Pvt Ltd,Manufacturer,Nagpur,Maharashtra,Tanvi Gala,1960803644,fdixit@kothari.com,4.6,3,15,3.46,89.34
+286,"Prabhakar, Naidu and Kala Pvt Ltd",Distributor,New Delhi,Delhi,Jonathan Chad,45261422,narangzashil@ramanathan.com,2.5,10,60,1.74,93
+287,Mane PLC Pvt Ltd,Local Vendor,Noida,Uttar Pradesh,Yuvraj Sama,4159003909,jgokhale@bassi.org,2.5,10,60,0.15,91.42
+288,Loke Ltd Pvt Ltd,Manufacturer,Surat,Gujarat,Gautami Parsa,2571172738,ladlibala@sathe-taneja.org,3.8,13,60,3.65,98.19
+289,Thakur-Rao Pvt Ltd,Distributor,Bengaluru,Karnataka,Umang Swamy,6674579138,ganga44@bala.info,3.1,11,45,3.69,86.76
+290,Brahmbhatt and Sons Pvt Ltd,Importer,Bhopal,Madhya Pradesh,Lavanya Parmar,7406055927,yahvimani@chad-varkey.info,4.9,9,30,4.46,86.02
+291,"Dave, Narasimhan and Sahota Pvt Ltd",Manufacturer,Bengaluru,Karnataka,Siya Keer,1354638685,hemang99@pai.com,3.5,8,60,0.35,82.17
+292,Shukla-Mahajan Pvt Ltd,Local Vendor,Chennai,Tamil Nadu,Tripti Gala,1553024420,bmurty@natt-agarwal.com,4.6,12,45,2.59,97.27
+293,Bhatnagar-Bhakta Pvt Ltd,Distributor,Bengaluru,Karnataka,Udant Suresh,6268090855,bahritamanna@krishnan.com,3,13,60,1.29,98.45
+294,"Soman, Mohan and Kara Pvt Ltd",Distributor,Ahmedabad,Gujarat,Tripti Minhas,4621647507,gverma@upadhyay.org,4.8,7,15,4.33,92.45
+295,Pradhan-Bora Pvt Ltd,Importer,Bhopal,Madhya Pradesh,Gunbir Mane,2546618811,lekha66@chana-seth.com,2.9,5,60,3.08,91.62
+296,Morar-Pathak Pvt Ltd,Manufacturer,Bhopal,Madhya Pradesh,Yutika Srinivas,898795402,janaki01@suri-mangat.com,3.8,7,15,0.53,86.13
+297,Sodhi-Chahal Pvt Ltd,Local Vendor,Mysuru,Karnataka,Hamsini Sachdeva,4059517629,sneha44@wali-kakar.org,4.9,7,15,2.89,95.95
+298,"Sarkar, Biswas and Goswami Pvt Ltd",Distributor,Jaipur,Rajasthan,Triveni Das,501349227,priya34@bhargava-srinivasan.com,3.4,8,60,0.92,92.43
+299,"Varty, Mahal and Barman Pvt Ltd",Importer,Bhopal,Madhya Pradesh,Zaitra Varughese,1415816126,ygola@kothari.com,4.5,13,15,0.46,84.75
+300,"Chad, Madan and Desai Pvt Ltd",Importer,Coimbatore,Tamil Nadu,Liam Grewal,8360921962,sanaya42@ratti-ganguly.com,3.4,3,15,4.25,89.92
+301,Sama PLC Pvt Ltd,Distributor,Ahmedabad,Gujarat,Shivansh Parmar,418932227,ria82@sachar.com,2.7,8,60,2.55,91.12
+302,Doctor PLC Pvt Ltd,Manufacturer,Bengaluru,Karnataka,Vamakshi Saraf,5774605475,lopa76@gola.com,3.4,3,45,3.9,82.22
+303,Hayre-Anand Pvt Ltd,Manufacturer,Indore,Madhya Pradesh,Dalaja Nagy,6446382903,unni85@dugar.com,4.3,10,30,2.62,85.02
+304,"Grover, Ravel and Nadig Pvt Ltd",Distributor,Bhopal,Madhya Pradesh,Riya Sheth,8685166428,eparsa@kaur-issac.com,3.2,6,60,0.74,84.98
+305,"Sethi, Nayar and Kurian Pvt Ltd",Importer,Surat,Gujarat,Gaurang Bava,7265722296,goswamiunnati@dhawan.com,3.7,3,45,1.21,86.39
+306,Prasad Ltd Pvt Ltd,Local Vendor,Jaipur,Rajasthan,Ubika Kalla,5189694870,oscar69@singhal.org,2.8,6,15,4.27,87.91
+307,Uppal Ltd Pvt Ltd,Importer,Noida,Uttar Pradesh,Frederick Sama,5739579934,bordeekbal@chakrabarti.com,3.6,8,30,1.42,92.74
+308,Dewan-Bava Pvt Ltd,Importer,New Delhi,Delhi,Maya Kala,9364813530,zsekhon@anne.biz,2.9,8,45,1.38,94.37
+310,"Sankaran, Gokhale and Natarajan Pvt Ltd",Manufacturer,New Delhi,Delhi,Isaiah Bassi,8466452425,ojasvi58@sem.com,4.9,9,30,2.03,87.19
+311,"Puri, Mander and Dara Pvt Ltd",Local Vendor,Mysuru,Karnataka,Nisha Chadha,7861908374,mukhopadhyayfariq@palla-talwar.com,2.8,6,30,1.21,84.74
+312,Barman-Dutta Pvt Ltd,Manufacturer,Indore,Madhya Pradesh,Balhaar Mangal,1827881925,deshpandearyan@kaur.biz,3.6,11,60,2.66,91.51
+313,"Dyal, Kannan and Bassi Pvt Ltd",Importer,Bhopal,Madhya Pradesh,Harrison Lata,9102708039,evora@chana.com,4.3,14,15,0.58,86.42
+314,"Khare, Andra and Raja Pvt Ltd",Manufacturer,Kolkata,West Bengal,Vanya Kibe,2790315269,dalalavi@deo.com,3.9,12,60,4.35,87.9
+315,Mandal Inc Pvt Ltd,Manufacturer,Bhopal,Madhya Pradesh,Ucchal Sachdev,540155934,ikshitasingh@raghavan.com,2.7,5,30,2.06,88.96
+316,"Tella, Batra and Das Pvt Ltd",Importer,Lucknow,Uttar Pradesh,Ladli Dar,8483870686,chasmum42@goyal.com,5,9,15,1.4,98.39
+317,Trivedi-Sagar Pvt Ltd,Distributor,Bengaluru,Karnataka,Finn Srinivas,6643395527,dipta57@menon-merchant.biz,3.4,7,60,3.55,91.28
+318,"Wadhwa, Narayan and Rajagopal Pvt Ltd",Manufacturer,Kolkata,West Bengal,Azad Sarkar,4782770433,bahrigaurika@sen.biz,3.6,13,60,1.5,87.34
+319,Koshy and Sons Pvt Ltd,Importer,Bengaluru,Karnataka,Pahal Nair,1802980853,zmagar@pai-manne.biz,4.1,12,30,4.19,95.18
+320,Palla-Wable Pvt Ltd,Distributor,Hyderabad,Telangana,Viraj Chada,6209129965,radhika43@yohannan.com,3.3,8,60,1.12,89.21
+321,Prashad PLC Pvt Ltd,Local Vendor,Chennai,Tamil Nadu,Xalak Rana,5837077729,oommentimothy@bava-grewal.info,3.5,13,30,2.08,89.65
+322,Parekh-Chowdhury Pvt Ltd,Distributor,Nagpur,Maharashtra,Amol Dash,267621383,amruta53@borra-khalsa.com,3,14,15,2.64,96.23
+323,"Padmanabhan, Gandhi and Chaudhry Pvt Ltd",Importer,Hyderabad,Telangana,Oni Rajagopalan,2323164865,mason84@bhatnagar-balasubramanian.com,3.3,9,15,1.25,97.35
+324,"Oak, Nanda and Kant Pvt Ltd",Local Vendor,Hyderabad,Telangana,Lipika Madan,2386391937,gchar@menon.com,4,11,15,1.63,97.05
+325,Nazareth Group Pvt Ltd,Importer,Lucknow,Uttar Pradesh,Yashasvi Bansal,9700775658,ngoda@prasad-bhatti.net,4.8,11,15,3.06,87.57
+326,"Ramanathan, Bora and Sant Pvt Ltd",Manufacturer,New Delhi,Delhi,Inaya Iyer,1638785990,tripathigirish@kaul.com,3,13,30,2.35,89.44
+327,Korpal and Sons Pvt Ltd,Local Vendor,Coimbatore,Tamil Nadu,Niharika Nadig,5668320708,zehaan83@mander.com,3,12,30,2.54,90.72
+328,Vohra Group Pvt Ltd,Importer,Chennai,Tamil Nadu,Abdul Batra,3036352122,mason78@chakraborty.com,4.6,11,15,3.91,98.94
+329,Reddy-Chadha Pvt Ltd,Distributor,Jaipur,Rajasthan,Aayush Mahal,9302424640,jbhasin@sarma-sehgal.com,4.5,10,60,1.9,90.75
+330,Karan and Sons Pvt Ltd,Distributor,Jaipur,Rajasthan,Zinal Sawhney,3293846157,bhasinomya@bhalla.com,2.7,2,30,1.39,86.89
+331,"Das, Shetty and Vig Pvt Ltd",Distributor,Hyderabad,Telangana,Ojasvi Wagle,6309388025,nimrat94@rajagopalan.net,4.5,11,60,2.52,84.02
+332,Bhargava Group Pvt Ltd,Importer,Mysuru,Karnataka,Ekani Wable,1387357849,isaackapoor@johal-natarajan.net,3.9,14,15,3.44,89.86
+333,Dara-Mishra Pvt Ltd,Manufacturer,New Delhi,Delhi,Tamanna Chandra,8336020476,duttaekanta@kanda-choudhury.com,4.3,12,30,1.41,99.79
+334,"Nath, Wable and Lalla Pvt Ltd",Importer,Jaipur,Rajasthan,Frado Roy,2252109058,nachiketpatla@prabhu-sagar.com,4.7,3,60,3.91,84.09
+335,Balasubramanian and Sons Pvt Ltd,Importer,New Delhi,Delhi,Eta Kadakia,832867970,nachiketlal@prabhakar-ramakrishnan.biz,4.7,11,60,0.83,84.48
+336,"Ramachandran, Kari and Kata Pvt Ltd",Manufacturer,New Delhi,Delhi,Abeer Nath,74333299,sudikshaborde@minhas-chakraborty.com,3.9,10,45,2.73,85
+337,Chawla-Bhagat Pvt Ltd,Importer,Surat,Gujarat,Atharv Dugar,7974515714,alal@shetty-hayre.com,4.9,10,15,0.7,95.35
+338,Kothari-Mand Pvt Ltd,Importer,Bhopal,Madhya Pradesh,Meera Srivastava,762535102,deoatharv@sidhu.com,4.7,4,30,1.2,94.66
+339,Oza Ltd Pvt Ltd,Local Vendor,New Delhi,Delhi,Ladli Sundaram,1112556896,aradhanashetty@chhabra.com,2.9,12,45,2.86,88.68
+340,Goswami PLC Pvt Ltd,Local Vendor,Bengaluru,Karnataka,Wahab Nadkarni,3438751546,hayremahika@kale.com,3.8,6,45,2.1,90.69
+341,"Bhardwaj, Vaidya and Dhar Pvt Ltd",Manufacturer,Lucknow,Uttar Pradesh,Samarth More,6011875514,chatresh50@sangha-mannan.com,4.3,9,45,3.84,96.16
+342,"Mallick, Babu and Lad Pvt Ltd",Local Vendor,Bhopal,Madhya Pradesh,Mitali Bail,8616047975,wmodi@dhingra-varty.com,4.6,9,45,1.52,87.05
+343,Garg-Sood Pvt Ltd,Local Vendor,Hyderabad,Telangana,Tejas Mangal,8801189882,mannayaan@apte.com,4.5,12,15,0.3,93.15
+344,"Dar, Zachariah and Sachar Pvt Ltd",Manufacturer,Jaipur,Rajasthan,Deepa Kari,6608589580,samarth79@thakkar.com,4.8,4,60,2.11,99.65
+345,"Goda, Dutt and Sethi Pvt Ltd",Distributor,Bhopal,Madhya Pradesh,Wahab Dhingra,9445169068,ubala@pant-konda.com,4.7,6,30,3.95,97.6
+346,Dixit Ltd Pvt Ltd,Importer,Mysuru,Karnataka,Girindra Dutt,76979556,zinal71@yadav.com,2.7,12,30,0.33,93.14
+347,Joshi-Vohra Pvt Ltd,Manufacturer,New Delhi,Delhi,Bhavya Misra,3478659487,charlesnarang@prabhakar-sarraf.net,4.3,2,30,2.2,84.36
+348,Gokhale-Narayan Pvt Ltd,Manufacturer,New Delhi,Delhi,Adya Saxena,4823339612,vasaadvaith@salvi-ben.com,2.5,7,15,4.45,89.52
+349,Chowdhury-Parikh Pvt Ltd,Manufacturer,Coimbatore,Tamil Nadu,Ayushman Borra,6654604034,uvaidya@karpe.info,3.1,3,15,0.55,88.54
+350,Singhal-Chaudhuri Pvt Ltd,Local Vendor,Ahmedabad,Gujarat,Guneet Deol,8026018512,upma25@borah-korpal.info,4.4,14,30,2.92,94.05
+351,Sangha-Sawhney Pvt Ltd,Distributor,Bengaluru,Karnataka,Bachittar Amble,9811508470,chaitanya64@bahl.com,3.6,13,30,2.86,84.69
+352,Dugar-Jani Pvt Ltd,Distributor,Indore,Madhya Pradesh,Dayamai Char,9198210649,abeer30@mohan.com,2.7,3,30,3.41,92.49
+353,Zacharia-Ravi Pvt Ltd,Local Vendor,Indore,Madhya Pradesh,Rehaan Thakur,6937033725,balakrishnanvasana@balasubramanian.biz,3.3,4,30,1.32,83.5
+354,Bajaj-Khurana Pvt Ltd,Manufacturer,Hyderabad,Telangana,Saanvi Om,8836338675,vanyawalia@malhotra.com,4.6,12,45,1,92.8
+355,Mutti PLC Pvt Ltd,Importer,New Delhi,Delhi,Udant Mani,1868368622,wravel@srinivas.com,4.1,14,30,2.28,84.01
+356,"Arora, Chand and Sunder Pvt Ltd",Manufacturer,Jaipur,Rajasthan,Nilima Dua,7257512437,jsidhu@dey.com,5,7,30,1.8,96.93
+357,Sarraf PLC Pvt Ltd,Distributor,Indore,Madhya Pradesh,Tarak Sarraf,5922497454,raukai@bobal.info,4.4,14,15,0.17,83.2
+358,Saha Group Pvt Ltd,Manufacturer,Ahmedabad,Gujarat,Nitesh Balay,6274890942,bprasad@chand-jhaveri.info,4.8,14,60,2.33,93.19
+359,"Dixit, Palla and Chand Pvt Ltd",Local Vendor,Hyderabad,Telangana,Amol Date,2353017076,onveerdugar@das.com,4.3,3,30,1.32,87.52
+360,Narayanan-Narula Pvt Ltd,Distributor,Hyderabad,Telangana,Nitara Mitter,4089422418,contractorhemani@memon.com,3.8,8,15,1.46,89.79
+361,Nair Ltd Pvt Ltd,Distributor,New Delhi,Delhi,Ekbal Master,3604706796,koak@saha.com,2.7,8,15,2.09,92.84
+362,"Edwin, Bhagat and Nath Pvt Ltd",Manufacturer,Ahmedabad,Gujarat,Vrishti Suresh,8399675940,anmol60@wable.org,2.5,4,15,0.82,98.96
+363,"Luthra, Pandya and Sur Pvt Ltd",Distributor,Hyderabad,Telangana,Kabir Gour,6832848798,aarav24@nazareth-shah.com,3.4,13,45,3.32,84.1
+364,"Menon, Karan and Dada Pvt Ltd",Local Vendor,Pune,Maharashtra,Radha Bera,3331565765,padmanabhanbalendra@khosla.org,3.2,3,45,3.23,92.26
+365,Mall-Khatri Pvt Ltd,Local Vendor,Mysuru,Karnataka,Harinakshi Bajwa,6564043378,dgole@sabharwal.org,3.8,2,60,3.88,84.97
+366,Sodhi LLC Pvt Ltd,Manufacturer,Coimbatore,Tamil Nadu,Simon Shah,5748879190,ekapadbassi@subramaniam-vasa.net,4.7,12,15,1.1,91.06
+367,Shankar-Baral Pvt Ltd,Distributor,Mumbai,Maharashtra,Yashawini Zachariah,9285889014,divya42@bhatti.info,2.6,7,60,4.15,85.19
+368,"Parsa, Oak and Buch Pvt Ltd",Local Vendor,Nagpur,Maharashtra,Siya Raju,4058145613,vinaya05@ravi.biz,3.1,5,60,4.13,87.69
+369,D’Alia Group Pvt Ltd,Manufacturer,Mysuru,Karnataka,Niharika Shenoy,3725714657,kakaratharv@nanda-bhardwaj.com,3.8,2,30,1.08,91.18
+370,Krishnan LLC Pvt Ltd,Manufacturer,Pune,Maharashtra,Divya Venkataraman,2518064223,chaaya64@comar.com,4.7,6,45,1.54,91.85
+371,Halder PLC Pvt Ltd,Distributor,Pune,Maharashtra,Nitara Balan,6922029804,sanyamall@ram.com,3.2,14,45,3.35,86.32
+372,Sekhon PLC Pvt Ltd,Distributor,Kolkata,West Bengal,Gayathri Nori,900531226,qabilpatil@shenoy.com,4.3,10,30,0.76,98.6
+373,Soman Ltd Pvt Ltd,Importer,Mumbai,Maharashtra,Banjeet Patil,7427489927,yashasvi30@choudhary-srivastava.com,4.1,13,15,4.28,82.03
+374,Palla-Mane Pvt Ltd,Manufacturer,Indore,Madhya Pradesh,Warda Garg,4717839574,bavaaadi@sule.biz,3,5,60,2.26,83.07
+375,Iyengar-Deep Pvt Ltd,Manufacturer,Coimbatore,Tamil Nadu,Lopa Singh,1568366537,kala66@mahal-sahota.com,2.6,5,60,3.18,88.63
+376,Wali Inc Pvt Ltd,Distributor,Bengaluru,Karnataka,Max Raj,7874042195,sarkarqabil@narula.com,4.1,8,15,2.7,83.11
+377,Sehgal and Sons Pvt Ltd,Importer,Chennai,Tamil Nadu,Rudra Naik,1782243156,ojasviram@chad.net,3.2,7,60,3.18,95.09
+378,Shanker-Chaudhry Pvt Ltd,Importer,Kolkata,West Bengal,Ayush Ramesh,5474800462,krishna48@tiwari-dhingra.biz,3.1,5,30,3.53,92.41
+379,Anand-Buch Pvt Ltd,Distributor,Chennai,Tamil Nadu,Udant Nanda,2513396090,yvarkey@bora.com,3.6,7,60,0.63,88.38
+380,Mani LLC Pvt Ltd,Importer,New Delhi,Delhi,Sai Varughese,3591562460,upurohit@dutt-dara.com,3.7,3,15,0.79,94.21
+381,"Jhaveri, Deo and Lanka Pvt Ltd",Distributor,Lucknow,Uttar Pradesh,Darsh Shetty,9940115419,diptakrishna@konda.net,4.6,7,30,0.5,86.42
+382,"Palla, Apte and Karan Pvt Ltd",Manufacturer,Kolkata,West Bengal,Bhavika Gupta,4019509415,karaishaan@radhakrishnan-randhawa.com,4.2,6,30,0.24,89.2
+383,Batta Ltd Pvt Ltd,Manufacturer,Jaipur,Rajasthan,Hiral Pall,8632880802,jvaidya@morar.org,3.7,14,30,0.63,83.1
+384,Pingle Group Pvt Ltd,Distributor,New Delhi,Delhi,Indrajit Kumer,7836618929,mahika17@bal-krishna.com,4.6,7,15,2.66,86.61
+385,Buch-Bajwa Pvt Ltd,Manufacturer,Bengaluru,Karnataka,Daniel Jani,1541691713,dugarpranav@varkey-rastogi.info,3,12,60,3.66,83.64
+386,"Dhillon, Sahota and Wali Pvt Ltd",Manufacturer,Kolkata,West Bengal,Aarnav Amble,9497607196,neha86@garde-kalla.info,4.9,2,30,4.17,89.71
+387,"Vala, Jain and Bal Pvt Ltd",Manufacturer,Indore,Madhya Pradesh,George Bora,6737839980,raagini85@ratta.org,3.5,8,30,1.66,98.17
+388,Luthra and Sons Pvt Ltd,Local Vendor,Surat,Gujarat,Nidra Ranganathan,3617752517,awali@saran-parikh.com,4.7,2,30,2.95,90.88
+389,Thakur LLC Pvt Ltd,Manufacturer,Hyderabad,Telangana,Chandran Salvi,9421068581,venkateshinaya@narula.com,2.7,8,30,1.94,93.44
+390,Rao-Doshi Pvt Ltd,Manufacturer,Hyderabad,Telangana,Devansh Ratti,4893023872,ssheth@venkataraman.com,5,14,45,2.21,95.91
+391,Venkatesh-Chad Pvt Ltd,Local Vendor,Kolkata,West Bengal,Gaurika Bhatnagar,2318668748,praneeljani@dada.biz,3.2,2,45,2.73,82.52
+392,Kohli LLC Pvt Ltd,Local Vendor,Ahmedabad,Gujarat,Veda Deol,2908768703,magarazad@dhaliwal.com,3.8,14,30,4.39,83.78
+393,"Anand, Rana and Bhardwaj Pvt Ltd",Manufacturer,New Delhi,Delhi,Andrew Dugar,2824154814,gaurangidube@lata-wadhwa.net,4.4,5,60,1.66,96.94
+394,Ram-Bobal Pvt Ltd,Distributor,Chennai,Tamil Nadu,Rajeshri Mangat,1477336125,tpant@handa.com,4,14,45,4.12,82.5
+395,Rao Ltd Pvt Ltd,Distributor,Kolkata,West Bengal,Ishanvi Nanda,4593752594,hbadal@mody.biz,4.6,14,60,2.49,85.12
+396,Chahal Ltd Pvt Ltd,Manufacturer,Mumbai,Maharashtra,Abeer Acharya,9087287456,kaulanvi@barad.info,3.1,5,15,2.42,82.01
+397,Tiwari-Das Pvt Ltd,Distributor,Lucknow,Uttar Pradesh,Ranbir Hora,1772119301,nimratmaster@garg-purohit.net,3.4,4,45,0.36,84.63
+398,Dhawan Group Pvt Ltd,Importer,Chennai,Tamil Nadu,Ladli Dugal,4270422238,vdua@roy-mahajan.com,4.9,7,60,2.68,87.99
+399,Dave-Mittal Pvt Ltd,Distributor,Kolkata,West Bengal,Hitesh Bala,2147709249,ukrishnamurthy@dubey.com,4.3,8,60,2.96,85.1
+400,Nori LLC Pvt Ltd,Distributor,Hyderabad,Telangana,Rohan Parsa,7490392628,lmangal@ahluwalia.biz,4.2,4,60,1.45,94.26
+401,"Mander, Chaudhary and Bhatt Pvt Ltd",Manufacturer,Chennai,Tamil Nadu,Fariq Vohra,972104962,sulefiyaz@gopal.com,4.9,11,60,3.84,95.72
+402,Badal-Raghavan Pvt Ltd,Distributor,Lucknow,Uttar Pradesh,Girish Lalla,6891983884,smorar@subramaniam.com,4,14,30,2.91,83.85
+403,Wason Ltd Pvt Ltd,Importer,Jaipur,Rajasthan,Yagnesh Kothari,6733200121,siya89@brahmbhatt.net,4.4,5,45,4.42,84.99
+404,Naik-Baria Pvt Ltd,Local Vendor,Mysuru,Karnataka,Lila Ganguly,9726643650,manbirahuja@nagi.info,2.5,5,30,3.15,88.24
+405,Kari-Borra Pvt Ltd,Manufacturer,Bengaluru,Karnataka,Vinaya Khare,4603391787,abadami@tripathi.biz,3.5,13,60,4.36,97.75
+406,Khatri and Sons Pvt Ltd,Importer,Jaipur,Rajasthan,Aashi Dass,6654624164,xdayal@bajaj.info,3.9,3,60,3.57,92.29
+407,Sodhi Group Pvt Ltd,Local Vendor,New Delhi,Delhi,Rishi Pandya,405189193,cbadami@naidu.com,2.7,2,45,0.19,86.65
+408,Sunder-Shenoy Pvt Ltd,Importer,Bengaluru,Karnataka,Tara Johal,2396291354,fchahal@kala-subramaniam.info,2.9,8,30,3.32,91.74
+409,Dhingra-Amble Pvt Ltd,Local Vendor,Mysuru,Karnataka,Xavier Hari,6738793576,faris92@bava.biz,4.3,8,30,2.77,89.73
+410,Ravi-Khare Pvt Ltd,Importer,Mumbai,Maharashtra,Gaurangi Acharya,3731605045,gautam32@shenoy.com,3,5,60,3.17,94.85
+411,Sheth PLC Pvt Ltd,Importer,Hyderabad,Telangana,Wishi Korpal,9363287547,haldersudiksha@pai.biz,3.2,3,15,1.83,91.78
+412,"Lall, Chakrabarti and Sandhu Pvt Ltd",Manufacturer,Jaipur,Rajasthan,Yadavi Sani,9441177845,jason76@shankar.com,3.4,8,15,1.4,93.78
+413,Chander-Lata Pvt Ltd,Distributor,Noida,Uttar Pradesh,Agastya Minhas,2953168504,bennaksh@doctor.biz,2.7,5,30,2.91,99.39
+414,Jayaraman and Sons Pvt Ltd,Importer,Jaipur,Rajasthan,Ayaan Mangal,1979553480,krisha02@nadkarni.com,4.5,9,60,4.04,86.72
+415,Bajaj-Parmar Pvt Ltd,Distributor,Hyderabad,Telangana,Urvashi Sura,6604780256,kundaekta@sagar.org,3.4,8,45,0.92,82.79
+416,Atwal-Lalla Pvt Ltd,Importer,Jaipur,Rajasthan,Harita Biswas,6597991708,tanaykala@lata.com,3.1,6,15,0.76,94.4
+417,Sastry PLC Pvt Ltd,Importer,Bengaluru,Karnataka,Ranbir Ganesh,2154993709,hiral38@varma.info,4.5,8,30,2.54,96.97
+418,Lad-Agate Pvt Ltd,Local Vendor,Hyderabad,Telangana,Veda Vora,5853258054,imaransolanki@dugar.org,3.9,5,60,1.41,89.03
+419,"Gulati, Rajagopalan and Bir Pvt Ltd",Distributor,Nagpur,Maharashtra,Sanya Sachdev,8969737197,jyotipillay@sehgal.net,2.8,14,60,0.86,99.52
+420,"Sethi, Rau and Master Pvt Ltd",Distributor,New Delhi,Delhi,Janani Shroff,6500507866,onveer82@srivastava.biz,2.6,3,60,0.99,96.64
+421,Boase PLC Pvt Ltd,Importer,Coimbatore,Tamil Nadu,Wriddhish Bir,340285662,siyakant@palla.com,4.8,14,15,0.48,91.9
+422,Sandhu PLC Pvt Ltd,Importer,Hyderabad,Telangana,Oscar Dutta,3198466941,chaudhryvansha@kulkarni-lad.com,3.8,2,60,0.6,84.66
+423,Narain and Sons Pvt Ltd,Manufacturer,Lucknow,Uttar Pradesh,Onkar Balay,6600092987,rajeshributala@bail.com,3.9,3,45,3.92,97.67
+424,"Ben, Chaudhry and Bali Pvt Ltd",Local Vendor,Indore,Madhya Pradesh,Vincent Vig,6095527355,jpalla@sachar.com,4.1,11,60,0.26,86.9
+425,"Manne, Doshi and Rajagopalan Pvt Ltd",Manufacturer,Coimbatore,Tamil Nadu,Ronith Nagar,6072656752,thakkarpooja@shankar.com,3.5,7,30,0.32,90.46
+426,Chakrabarti and Sons Pvt Ltd,Manufacturer,Surat,Gujarat,Lipika Varughese,439626541,cganesh@chad.com,3.3,14,45,1.47,97
+427,"Sem, Bhavsar and Dayal Pvt Ltd",Distributor,Bengaluru,Karnataka,Fariq Sathe,6689435628,amairamangat@cheema.biz,3.3,13,60,3.51,87.71
+428,Pandya Group Pvt Ltd,Distributor,Bhopal,Madhya Pradesh,Imaran Wason,3197780122,dhillonayush@sankar.com,3.6,8,60,3.44,97.44
+429,Shere LLC Pvt Ltd,Distributor,Nagpur,Maharashtra,Aarini Manne,3523182322,mugdha69@dar-chaudhry.com,2.7,13,60,0.7,97.15
+430,"Dar, Rastogi and Boase Pvt Ltd",Distributor,Lucknow,Uttar Pradesh,Nitara Kumer,1674809428,paljanaki@buch.biz,3,5,15,1.2,90.12
+431,"Sengupta, Sane and Nair Pvt Ltd",Importer,Kolkata,West Bengal,Charita Anne,9211732293,anvisolanki@hayer.com,3.4,9,60,2.9,84.2
+432,"Trivedi, Patel and Bail Pvt Ltd",Importer,Mumbai,Maharashtra,Zilmil Shenoy,6440153899,zansibabu@sehgal.biz,3.7,9,30,4.33,90.45
+433,Sampath-Sama Pvt Ltd,Importer,Hyderabad,Telangana,Rachana Mital,9772352623,sabharwallipika@wason-solanki.info,2.9,6,15,1.35,88.88
+434,"Sagar, Pillay and Goyal Pvt Ltd",Distributor,Chennai,Tamil Nadu,Vedhika Pal,200313821,sai87@banik-chaudhry.com,4.1,12,30,1.28,89.29
+435,Rana Group Pvt Ltd,Manufacturer,Nagpur,Maharashtra,Hamsini Shankar,1578484662,shivansh63@luthra.info,3.7,4,30,2.75,82.15
+436,Joshi-Vaidya Pvt Ltd,Importer,Surat,Gujarat,Zarna Dhar,2654028434,bawaurmi@verma.biz,3.6,8,45,2.12,85.88
+437,Bhargava-Chaudhry Pvt Ltd,Manufacturer,Surat,Gujarat,Abeer Tiwari,1310750137,anirudhchaudhari@sampath.com,2.5,12,45,2.57,92.57
+438,"Dutta, Minhas and Goel Pvt Ltd",Manufacturer,Surat,Gujarat,Jonathan Mitter,4727217275,keyanair@thaman-pandya.biz,3.7,7,45,2.92,97.33
+439,"Sandhu, Badal and Sagar Pvt Ltd",Distributor,Surat,Gujarat,Nitara Anand,9893318126,ahluwaliayoshita@ramaswamy-jani.com,2.9,14,30,4.06,96.34
+440,"Kohli, Parmar and Uppal Pvt Ltd",Importer,Noida,Uttar Pradesh,Pranit Dutta,4432643168,bimala31@sarin.info,4.2,13,15,2.98,99.75
+441,Srinivasan Group Pvt Ltd,Local Vendor,Surat,Gujarat,George Nair,9251214386,chadhadalaja@om.net,3.5,2,30,1.61,94.7
+442,"Devi, Kurian and Raju Pvt Ltd",Importer,Hyderabad,Telangana,Samesh Sarma,346838173,joshuareddy@mutti-tailor.com,3.8,4,30,1.39,90.38
+443,Merchant-Keer Pvt Ltd,Importer,Ahmedabad,Gujarat,Manya Gera,1903319595,bhattacharyyaprisha@bajwa.com,4.1,5,45,1.08,97.51
+444,Agarwal LLC Pvt Ltd,Importer,Indore,Madhya Pradesh,Warda Handa,6158805658,vsavant@karpe.com,3.2,6,60,3.85,90.38
+445,Narayan Inc Pvt Ltd,Local Vendor,Lucknow,Uttar Pradesh,Qushi Atwal,9310914846,gaurangireddy@chandran.net,4.7,10,15,3.92,88.79
+446,Devan and Sons Pvt Ltd,Manufacturer,Surat,Gujarat,Bhavika Kulkarni,778618922,pahal19@buch.org,4.7,4,30,4.47,88.1
+447,Lad-Krishnan Pvt Ltd,Distributor,Noida,Uttar Pradesh,Ayush Natarajan,4634887535,pnair@misra.info,3.3,13,30,3.53,90.68
+448,"Brar, Bahri and Mand Pvt Ltd",Manufacturer,Coimbatore,Tamil Nadu,Nandini Sunder,5418364277,kdeo@deep.com,2.5,6,30,3.45,85
+449,"Sen, Nagy and Saraf Pvt Ltd",Manufacturer,Coimbatore,Tamil Nadu,Patrick Khurana,1341119827,parth10@panchal.info,2.8,8,60,1.87,99.18
+450,Patla Inc Pvt Ltd,Manufacturer,Bhopal,Madhya Pradesh,Keya Modi,4078139825,karanmanbir@sandal-mane.com,3.8,13,45,4.28,97.88
+451,Ray-Kata Pvt Ltd,Manufacturer,Hyderabad,Telangana,Vedant Basak,3848042188,nehasankaran@salvi.info,4.2,12,30,1.1,97.61
+452,Verma PLC Pvt Ltd,Manufacturer,Ahmedabad,Gujarat,Robert Varughese,472670128,matthew77@sridhar.biz,3.5,11,45,0.83,96.66
+453,Patel-Yohannan Pvt Ltd,Local Vendor,Surat,Gujarat,Avni Nanda,9557540033,patlachaitaly@bassi.com,4.3,11,45,2.01,94.22
+454,Khurana-Oommen Pvt Ltd,Local Vendor,Coimbatore,Tamil Nadu,Laban Kurian,236832382,zashil58@choudhury.net,3.4,5,30,4.27,98.34
+455,"Choudhary, Kara and Kurian Pvt Ltd",Distributor,Bhopal,Madhya Pradesh,Jeremiah Krishnan,5467162966,rajeshrinayar@kanda-parekh.com,3.1,4,30,3.33,92.5
+456,Joshi Inc Pvt Ltd,Importer,Chennai,Tamil Nadu,Ati Arya,7806450096,kamdarrushil@bhattacharyya-kale.com,4.3,14,15,1.75,93.4
+457,"Bhattacharyya, Agrawal and Parekh Pvt Ltd",Manufacturer,Hyderabad,Telangana,Geetika Deshmukh,2986567286,umangsarkar@chacko.com,4.2,12,15,0.31,84.06
+458,"Chaudhari, Badami and Mittal Pvt Ltd",Manufacturer,Jaipur,Rajasthan,Abdul Ram,9682794474,badaminiharika@buch.com,3.9,9,30,1,94.21
+459,"Kibe, Halder and Muni Pvt Ltd",Local Vendor,Pune,Maharashtra,Ishita Kant,9877772880,chaitalysabharwal@nigam.com,4.2,12,45,2.84,94.47
+460,Sami Inc Pvt Ltd,Manufacturer,Bhopal,Madhya Pradesh,Damyanti Bava,7280765516,borahojasvi@setty.com,3.2,14,15,2.29,92.84
+461,"Anand, Barad and Banik Pvt Ltd",Importer,Ahmedabad,Gujarat,Rushil Patil,9988453027,nehabains@dixit.com,4.3,6,30,0.27,90.84
+462,Sodhi-Mohanty Pvt Ltd,Importer,New Delhi,Delhi,Nandini Dara,5095624493,enazareth@deshpande-sidhu.net,3.1,2,15,4.09,96.87
+463,Majumdar Inc Pvt Ltd,Manufacturer,Jaipur,Rajasthan,Yashasvi Lal,5235021664,atisaran@raghavan.com,4.4,3,15,4.08,93.47
+464,"Mukherjee, Sabharwal and Salvi Pvt Ltd",Importer,Jaipur,Rajasthan,Kashish Sodhi,5953680436,eta52@oza.org,3.7,3,30,3.95,97.17
+465,"Johal, Aurora and Chaudhari Pvt Ltd",Local Vendor,Kolkata,West Bengal,Maya Viswanathan,311496013,mandaanay@sharma.biz,4.3,3,15,0.14,84.46
+466,Mukhopadhyay-Suresh Pvt Ltd,Importer,Coimbatore,Tamil Nadu,Advaith Dube,5520059052,gaurangrajagopalan@buch.net,4.7,11,45,3.97,83.65
+467,Kota-Varghese Pvt Ltd,Manufacturer,Kolkata,West Bengal,Nimrat Butala,2733939093,raksha54@chokshi-brahmbhatt.com,3.5,9,45,3.78,94.28
+468,Ratti-Subramanian Pvt Ltd,Distributor,Jaipur,Rajasthan,Vidhi Dhawan,7026505692,zpalla@solanki.com,2.8,13,15,4.42,97.03
+469,"Palan, Sanghvi and Koshy Pvt Ltd",Local Vendor,Mysuru,Karnataka,Isaac Divan,6705534618,ykumar@banerjee-manda.com,4.5,12,60,0.9,88.76
+470,Swaminathan LLC Pvt Ltd,Distributor,Kolkata,West Bengal,Tanmayi Soni,5131559727,krishnapriya@thaker.org,3.7,9,15,4.01,89.84
+471,"Jain, Nair and Shenoy Pvt Ltd",Importer,Mysuru,Karnataka,Hemal Srivastava,7336342121,suhanirout@aurora.com,2.5,12,30,4.4,93.92
+472,Dutta-Bobal Pvt Ltd,Local Vendor,Kolkata,West Bengal,Divya Jhaveri,4193290950,miteshnadig@bumb.info,4.2,5,60,1.62,94.04
+473,Lall and Sons Pvt Ltd,Manufacturer,Bhopal,Madhya Pradesh,Devansh Choudhry,8794881364,deshpanderajeshri@kakar-patil.com,2.5,4,60,3.85,97.48
+474,Nanda-Saran Pvt Ltd,Importer,Mysuru,Karnataka,Samarth Chakraborty,9908450618,tkapadia@devi.org,3.1,6,15,2.33,91.8
+475,Suri-Kapoor Pvt Ltd,Distributor,Indore,Madhya Pradesh,Wakeeta Raghavan,9135975068,smangat@morar.net,2.7,9,60,0.49,90.87
+476,"Kohli, Sood and Iyer Pvt Ltd",Local Vendor,Kolkata,West Bengal,Alexander Vasa,9733012451,sherechaitanya@mane-raval.net,4.4,2,15,1.88,82.64
+477,Som Inc Pvt Ltd,Manufacturer,Hyderabad,Telangana,Onveer Bhardwaj,3827394175,zilmil98@mital-baral.net,4.5,11,45,4.02,92.01
+478,Atwal-Dhawan Pvt Ltd,Importer,Jaipur,Rajasthan,Zarna Ghosh,3809660990,abdul67@prabhu.org,4.6,5,60,1.56,95.66
+479,"Patel, Jain and Chhabra Pvt Ltd",Importer,Noida,Uttar Pradesh,Karan Gara,5287062549,sanghviira@manda.org,4.3,3,15,3.44,85.95
+480,"Bali, Grewal and Kara Pvt Ltd",Importer,Kolkata,West Bengal,Christopher Vala,1017289534,wardakhatri@krishnamurthy.com,3.9,7,15,0.3,84.92
+481,Shukla PLC Pvt Ltd,Manufacturer,Coimbatore,Tamil Nadu,Zaid Sathe,7295303408,varsha10@khare.com,3.1,5,30,0.63,97.17
+482,Halder Ltd Pvt Ltd,Distributor,New Delhi,Delhi,Samarth Iyengar,3065641521,kulkarniyoshita@mallick.info,4.3,3,60,0.3,93.27
+483,Upadhyay PLC Pvt Ltd,Local Vendor,Lucknow,Uttar Pradesh,Netra Handa,4093040024,nikita99@ray.com,3.6,11,30,4.34,82.08
+484,Bassi-Khosla Pvt Ltd,Local Vendor,Nagpur,Maharashtra,Benjamin Subramaniam,1031278063,lgolla@gulati.com,4.6,9,30,3.14,85.09
+485,Natarajan Group Pvt Ltd,Local Vendor,Chennai,Tamil Nadu,Victor Pant,4618405254,hemanginikrishnan@prasad-roy.biz,4.1,11,45,2.32,88.85
+486,"Chowdhury, Bir and Lall Pvt Ltd",Importer,Lucknow,Uttar Pradesh,Daksha Sachar,2666320540,vsolanki@balakrishnan-lal.net,3.5,7,45,2.09,84.37
+487,"Aggarwal, Batra and Sridhar Pvt Ltd",Importer,Indore,Madhya Pradesh,Nikita Yadav,3670619081,cpatla@ramanathan-thaker.com,4.3,10,30,0.98,93.11
+488,Chaudhari-Borah Pvt Ltd,Distributor,Surat,Gujarat,Laksh Upadhyay,3178944082,tsalvi@sridhar-uppal.com,5,12,30,2.32,94.36
+489,Rastogi-Narayanan Pvt Ltd,Importer,Kolkata,West Bengal,Sathvik Dhaliwal,2708797851,xvig@sehgal.net,3.9,11,60,3.07,97.91
+490,Khalsa-Upadhyay Pvt Ltd,Local Vendor,Hyderabad,Telangana,Zaid Doctor,223520849,sinhachampak@kaul-koshy.org,4.5,10,15,0.21,84.59
+491,"Shroff, Anand and Sanghvi Pvt Ltd",Importer,Mumbai,Maharashtra,Hema Mishra,6953006530,somanbhavani@rai-gara.org,4.4,4,45,3.11,84.61
+492,Keer PLC Pvt Ltd,Importer,Nagpur,Maharashtra,Nimrat Balay,4254487495,aarna67@gandhi.com,3,10,15,1.68,90.06
+493,Munshi Group Pvt Ltd,Local Vendor,Lucknow,Uttar Pradesh,Lopa Sridhar,1414676512,hsidhu@bawa.net,3.1,14,45,3.15,82.84
+494,Luthra PLC Pvt Ltd,Local Vendor,Indore,Madhya Pradesh,Robert Venkatesh,7252214153,amrutakanda@sant-kala.com,4.9,12,45,4.35,82.96
+495,Chawla Inc Pvt Ltd,Local Vendor,Ahmedabad,Gujarat,Ishwar Bora,1774241134,aarushkrishna@vora.com,4.6,12,45,3.42,91.73
+496,Walia-Mani Pvt Ltd,Distributor,Lucknow,Uttar Pradesh,Omkaar Gade,9400508387,dtoor@chakraborty.net,3.2,4,15,0.92,85.09
+497,Prakash LLC Pvt Ltd,Local Vendor,Hyderabad,Telangana,Ronith Thaman,381600877,simonkonda@pathak.com,2.6,6,45,0.67,92.39
+498,Bose-Mammen Pvt Ltd,Importer,Ahmedabad,Gujarat,Ekalinga Seshadri,6106950491,kohlijason@balasubramanian.com,3.7,4,15,0.78,87.74
+499,Bose-Mahajan Pvt Ltd,Importer,Nagpur,Maharashtra,Vidhi Ramachandran,9099380164,badamisamaksh@setty.info,3.7,11,45,0.42,94.6
+500,Sule Inc Pvt Ltd,Distributor,Hyderabad,Telangana,Prisha Bali,3975232727,ptripathi@cherian-gala.com,3.8,14,30,1.93,91.56
